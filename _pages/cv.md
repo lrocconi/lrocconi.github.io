@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-#[**CV**](/files/pdf/Rocconi_CV.pdf)
+[**CV**](/files/pdf/Rocconi_CV.pdf)
 
 Education
 ======

@@ -3,10 +3,6 @@ permalink: /software/
 title: "Software"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+# Place Holder for Software
 
-Heading 1
-======
 
-Heading 2
-======
