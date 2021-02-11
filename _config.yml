@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor, University of Tennessee"
   location         : "Knoxville, TN"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "The University of Tennessee, Knoxville"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=goRRnPUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

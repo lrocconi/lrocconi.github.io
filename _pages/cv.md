@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#[**CV**](/files/pdf/Rocconi_CV.pdf)
 
 Education
 ======
@@ -26,7 +26,6 @@ Work experience
   * Indiana University
   * Center for Postsecondary Research
 
-[CV](/files/pdf/Rocconi_CV.pdf)
 
 Selected Publications
 ======
