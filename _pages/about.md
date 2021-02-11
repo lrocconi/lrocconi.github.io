@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor in the [Evaluation, Statistics, & Methodology](https://epc.utk.edu/evaluation-statistics-measurement/) program in the [Educational Psychology and Counseling Department](https://epc.utk.edu/) at [The University of Tennessee, Knoxville](https://utk.edu). I teach courses in applied statistics and psychometrics. 
+Welcome! I am an Assistant Professor in the [Evaluation, Statistics, & Methodology](https://epc.utk.edu/evaluation-statistics-measurement/) program in the [Educational Psychology and Counseling Department](https://epc.utk.edu/) at The University of Tennessee, Knoxville. I earned a PhD in Educational Psychology and Research specializing in Quantitative Methods from The University of Memphis. 
 
-# This website is Under Construction
+I teach courses in graduate-level courses in applied statistics and psychometrics. In my scholarly work, I apply quantitative methods to solve substantive issues in educational research. I have published my work in a variety of journals including *The Quantitative Methods for Psychology*, *Numeracy*, *Research in Higher Education*, *Research and Practice in Assessment*, *The Review of Higher Education*, *Higher Education*, *School Psychology Review*, and the *Journal of Diversity in Higher Education*. My specific research interests include (1) program evaluation and assessment in higher education and (2) methodological issues in educational research.   
+
+# Please Note This Website is Still Under Construction
