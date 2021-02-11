@@ -11,40 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Delta State University, 2005
+* M.S. in Leadership and Policy Studies, University of Memphis, 2007
+* Ph.D in Educational Psychology and Research, Concentration: Quantitative Methods, University of Memphis, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - Present: Assistant Professor
+  * University of Tennessee
+  * Educational Psychology and Counseling
+  * Evaluation, Statistics, and Methodology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2011 - 2016: Assistant Research Scientist
+  * Indiana University
+  * Center for Postsecondary Research
 
-Publications
+[CV](/files/pdf/Rocconi_CV.pdf)
+
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Software
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.software %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -54,6 +46,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
