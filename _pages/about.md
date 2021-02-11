@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor in the [Evaluation, Statistics, & Methodology](https://epc.utk.edu/evaluation-statistics-measurement/)
-in the [Educational Psychology and Counseling Department](https://epc.utk.edu/) at [The University of Tennessee, Knoxville](https://utk.edu).
+Welcome! I am an Assistant Professor in the [Evaluation, Statistics, & Methodology](https://epc.utk.edu/evaluation-statistics-measurement/) program in the [Educational Psychology and Counseling Department](https://epc.utk.edu/) at [The University of Tennessee, Knoxville](https://utk.edu). I teach courses in applied statistics and psychometrics. 
 
 # This website is Under Construction
