@@ -2,7 +2,13 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research"
+    url: /research/    
 
+  - title: "Awards"
+    url: /awards/   
+    
   - title: "Software"
     url: /software/    
 
