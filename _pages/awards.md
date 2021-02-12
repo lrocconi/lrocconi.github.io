@@ -1,11 +1,6 @@
 ---
-permalink: /
+permalink: /awards/
 title: "Awards"
-excerpt: "Awards"
-author_profile: true
-redirect_from: 
-  - /awards/
-  - /awards.html
 ---
 
 Charles F. Elton Best Paper Award from the Association for Institutional Research. Awarded in 2020 for "How often if 'often': Examining the meaning of vague quantifiers in higher education" published in *Research in Higher Education*. 
