@@ -10,7 +10,7 @@ Progress reading goals apply to English language learners equally?* Paper subseq
 
 * **2018 Helen B. Watson [Outstanding Faculty Research Award](https://epc.utk.edu/tag/helen-b-watson-outstanding-faculty-research-award/)** from the College of Education, Health & Human Sciences at the University of Tennessee. 
 
-* **2017 SGA [Open Education Award](https://epc.utk.edu/2017/04/21/rocconi-wins-sga-award/)** from the University of Tennessee Student Government Association and the University Libraries. 
+* **2017 [SGA Open Education Award](https://epc.utk.edu/2017/04/21/rocconi-wins-sga-award/)** from the University of Tennessee Student Government Association and the University Libraries. 
 
 * **Charles F. Elton [Best Paper Award 2014](https://www.airweb.org/resources/awards-scholarships/awards/charles-f.-elton-best-paper-award/elton-best-papers)** from the Association for Institutional Research. Awarded in 2015 for "College seniors’ plans for graduate school: Do deep approaches to learning and Holland academic environments matter?" published in *Research in Higher Education*. 
 
