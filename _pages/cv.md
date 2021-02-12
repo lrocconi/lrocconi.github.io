@@ -12,6 +12,10 @@ redirect_from:
 You can download a PDF copy of my CV [here](/files/Rocconi_CV.pdf).
 
 
+[comment]: # (This is a comment)
+
+
+<!---
 Education
 ======
 * B.S. in Mathematics, Delta State University, 2005
@@ -48,4 +52,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+-->
 
