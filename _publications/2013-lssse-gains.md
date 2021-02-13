@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2013-lssse-gains
 date: 2013-04-01
 venue: 'University of St. Thomas Law Journal'
-paperurl: 'https://ir.stthomas.edu/ustlj/vol10/iss1/'
-link: 
+paperurl: 
+link: 'https://ir.stthomas.edu/ustlj/vol10/iss1/'
 code: 
 github: 
 citation:
