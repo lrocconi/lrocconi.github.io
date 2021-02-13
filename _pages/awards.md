@@ -12,7 +12,7 @@ Progress reading goals apply to English language learners equally?* Paper subseq
 
 * **2017 [SGA Open Education Award](https://epc.utk.edu/2017/04/21/rocconi-wins-sga-award/)** from the University of Tennessee Student Government Association and the University Libraries. 
 
-* **Charles F. Elton [Best Paper Award 2014](https://www.airweb.org/resources/awards-scholarships/awards/charles-f.-elton-best-paper-award/elton-best-papers)** from the Association for Institutional Research. Awarded in 2015 for "College seniors’ plans for graduate school: Do deep approaches to learning and Holland academic environments matter?" published in *Research in Higher Education*. 
+* **Charles F. Elton [Best Paper Award 2014](https://www.airweb.org/resources/awards-scholarships/awards/charles-f.-elton-best-paper-award/elton-best-papers)** from the Association for Institutional Research. Awarded in 2015 for "College seniors’ plans for graduate school: Do deep approaches to learning and Holland academic environments matter?" published in [*Research in Higher Education*](https://link.springer.com/article/10.1007/s11162-014-9358-3). 
 
 
 Please see my [CV](/cv/) for more details and a complete list of Awards and Honors.
