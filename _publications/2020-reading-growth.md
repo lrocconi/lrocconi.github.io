@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/2020-reading-growth
 date: 2020-09-12
 venue: 'School Psychology Review'
-paperurl: 'https://doi.org/10.1080/2372966X.2020.1787080'
+link: 'https://doi.org/10.1080/2372966X.2020.1787080'
 ---

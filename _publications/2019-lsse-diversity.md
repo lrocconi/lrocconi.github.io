@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2020-lssse-diversity
 date: 2019-03-01
 venue: 'Journal of Diversity in Higher Education'
-paperurl:'https://doi.apa.org/doi/10.1037/dhe0000080'
+link:'https://doi.apa.org/doi/10.1037/dhe0000080'
 ---
-Download [here](https://lssse.indiana.edu/wp-content/uploads/2019/04/2019-Journal-of-Diversity-in-Higher-Education.pdf){: .btn--research}
+[Download paper](https://lssse.indiana.edu/wp-content/uploads/2019/04/2019-Journal-of-Diversity-in-Higher-Education.pdf){: .btn--research}

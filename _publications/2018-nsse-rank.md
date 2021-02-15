@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/2018-nsse-rank
 date: 2018-12-01
 venue: 'Review of Higher Education'
-paperurl: 'https://doi.org/10.1353/rhe.2018.0003'
+link: 'https://doi.org/10.1353/rhe.2018.0003'
 ---

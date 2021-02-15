@@ -4,6 +4,5 @@ collection: publications
 permalink: /publication/2020-holland
 date: 2020-09-12
 venue: 'Higher Education'
-paperurl: 'https://doi.org/10.1007/s10734-020-00519-0'
-
+link: 'https://doi.org/10.1007/s10734-020-00519-0'
 ---
