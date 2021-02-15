@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 This page contains links to some of my scholarly publications. For a complete list of my scholarly publications, please see my [CV](/cv/). 
 
 {% if author.googlescholar %}
