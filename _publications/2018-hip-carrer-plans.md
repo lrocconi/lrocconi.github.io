@@ -5,8 +5,4 @@ permalink: /publication/2018-hip-career-plans
 date: 2018-07-01
 venue: 'Higher Education'
 paperurl: 'https://doi.org/10.1007/s10734-017-0151-z'
-link: 
-code: 
-github: 
-citation:
 ---

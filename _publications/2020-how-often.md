@@ -4,9 +4,5 @@ collection: publications
 permalink: /publication/2020-how-often
 date: 2020-01-01
 venue: 'Research in Higher Education'
-paperurl:
-link: 'https://link.springer.com/article/10.1007/s11162-020-09587-8'
-code: 
-github: 
-citation:
+paperurl: 'https://link.springer.com/article/10.1007/s11162-020-09587-8'
 ---
