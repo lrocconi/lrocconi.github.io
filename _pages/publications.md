@@ -6,8 +6,8 @@ author_profile: true
 ---
 This page contains links to some of my scholarly publications. For a complete list of my scholarly publications, please see my [CV](/cv/). 
 
-<details>
-<summary> ### 2021 </summary>
+
+### 2021 
 
 Walker, J. P. & Rocconi, L. M. (accepted). Problem-solving ability in courses with multiple types of experiential learning. *Journal for Research & Practice in College Teaching*. 
 
@@ -19,10 +19,8 @@ Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). The effects 
 
 Zilvinskis, J., Rocconi, L. M., & McCormick, A. (in press). Does teaching count? The relationship between US News faculty resource measures and students’ experiences with faculty. In E. Hazelkorn (Ed.), *Research Handbook on University Rankings*.
 
-</details>
 
-<details>
-<summary> ### 2020 </summary>
+### 2020 
 
 Richardson, R., Rocconi, L.M., & Crewdson, M. (2020). [Evaluating English Learner Progress in Reading: How Much Growth Can We Expect?](https://doi.org/10.1080/2372966X.2020.1787080) *School Psychology Review*.   
 
@@ -34,10 +32,8 @@ Gibson, T. O. Jr., Morrow, J. A., Skolits, G. J., & Rocconi, L. M. (2020). [Stud
 
 Rocconi, L. M., Dumford, A. D., & Butler, B. (2020). [How often is ‘often’: Examining the meaning of vague quantifiers in higher education.](https://link.springer.com/article/10.1007/s11162-020-09587-8) *Research in Higher Education*, 61(2), 229-247.
 
-</details>
 
-<details>
-<summary> ### 2019 </summary>
+### 2019 
 
 Rocconi, L. M., Taylor, A., Haeger, H., Zilvinskis, J., & Christensen, C. (2019). [Beyond the numbers: An examination of diverse interactions in law school.](https://doi.apa.org/doi/10.1037/dhe0000080) *Journal of Diversity in Higher Education*, 12(1), 27-37. [Download paper](https://lssse.indiana.edu/wp-content/uploads/2019/04/2019-Journal-of-Diversity-in-Higher-Education.pdf){: .btn--research}
 
@@ -45,10 +41,8 @@ Rocconi, L. M., & Gonyea, R. (2018/2019). [Contextualizing student engagement ef
 
 Rocconi, L. M. (2019). [A glimpse beyond the numbers.](http://lssse.indiana.edu/blog/guest-post-a-glimpse-beyond-the-numbers/) The Law School Survey of Student Engagement Guest Blog Post.  
 
-</details>
 
-<details>
-<summary> ### 2018 </summary>
+### 2018 
 
 Miller, A., Rocconi, L.M., & Dumford, A.D. (2018). [Focus on the finish line: Does high-impact Practice participation influence career plans and early job attainment?](https://doi.org/10.1007/s10734-017-0151-z) *Higher Education*, 75(3), 489-506. 
 
@@ -56,26 +50,20 @@ Zilvinski, J., & Rocconi, L. M. (2018). [Revisiting the relationship between ins
 
 Cole, J., Gonyea, R., & Rocconi, L. (2018). [With retention, the key is “act locally”.](https://www.cambridge.org/core/books/first-year-of-college/with-retention-the-key-is-act-locally/B387610FD0EE960A097378C5D21AF21E) In R. Feldman (Ed.), *The First Year of College: Research, Theory, and Practice on Improving the Student Experience and Increasing Retention*. Cambridge, UK: Cambridge University Press. 
 
-</details>
 
-<details>
-<summary> ### 2017 </summary>
+### 2017 
 
 Zilvinskis, J., & Rocconi, L.M. (2017). [Utilizing survey research and multilevel modeling to explore the relationship between institutional rank and student engagement.](http://dx.doi.org/10.4135/9781473969759 ) *SAGE Research Methods Cases*. 
 
-</details>
 
-<details>
-<summary> ### 2016 </summary>
+### 2016 
 
 Miller, A. L., Sarraf, S. A., Dumford, A. D., & Rocconi, L. M. (2016). [Construct validity of NSSE engagement indicators.](https://nsse.indiana.edu/nsse/psychometric-portfolio/construct-validity.html) Bloomington, IN: Center for Postsecondary Research. 
 
 Taylor, A.N., Christensen, C., & Rocconi, L.M. (2016). [*How a decade of debt changed the law school experience (LSSSE Annual Results 2015)*.](https://lssse.indiana.edu/wp-content/uploads/2016/01/LSSSE-Annual-Report-2015-Update-FINAL-revised-web.pdf) Bloomington, IN: Indiana University Center for Postsecondary Research. 
 
-</details>
 
-<details>
-<summary> ### 2015 </summary>
+### 2015 
 
 Rocconi, L.M., Ribera, A., & Nelson Laird, T. (2015). [College seniors’ plans for graduate school: Do deep approaches to learning and Holland academic environments matter?](https://link.springer.com/article/10.1007/s11162-014-9358-3) *Research in Higher Education*, 56(2), 178-201. 
 
@@ -83,10 +71,8 @@ Dumford, A., & Rocconi. L. M. (2015). [Development of the quantitative reasoning
 
 Silver, C., & Rocconi, L. M. (2015). [Learning from and about the numbers.](http://www.journaloflegalmetrics.org/V4I1/V4I1Full.pdf) *Journal of Legal Metrics*, 4(1), 53-84. 
 
-</details>
 
-<details>
-<summary> ### 2013 </summary>
+### 2013 
 
 Rocconi, L. M. (2013). [Analyzing multilevel data: Comparing findings from hierarchical linear modeling and ordinary least squares regression.](http://link.springer.com/article/10.1007/s10734-013-9615-y) *Higher Education*, 66(4), 439-461.  
 
@@ -94,35 +80,25 @@ Rocconi, L. M., Lambert, A. D., McCormick, A. C., & Sarraf, S. A. (2013). [Makin
 
 Silver, C., Rocconi, L. M., Haeger, H., & Watkins, L. (2013). [Gaining from the system: Lessons from the Law School Survey of Student Engagement about how students benefit from law school.](https://ir.stthomas.edu/ustlj/vol10/iss1/) *University of St. Thomas Law Journal*, 10(1), 286-316. [Download paper]('https://ir.stthomas.edu/cgi/viewcontent.cgi?article=1306&context=ustlj'){: .btn--research}
 
-</details>
 
-<details>
-<summary> ### 2012 </summary>
+### 2012 
 
 Pike, G. R., & Rocconi, L. M. (2012). [Multilevel modeling: Presenting and publishing the results for internal and external constituents.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ir.20017) In Lott, J. L. & J. S. Antony. (Eds.), *Multilevel modeling: Techniques and applications in institutional research* (New Directions for Institutional Research, no.154, pp. 111-124). San Francisco: Jossey-Bass.  
 
-</details>
 
-<details>
-<summary> ### 2011 </summary>
+### 2011 
 
 Rocconi, L. M. (2011). [The impact of learning communities on first year students’ growth and development in college.](https://link.springer.com/article/10.1007/s11162-010-9190-3) *Research in Higher Education*, 52(2), 178-193.
 
-</details>
 
-<details>
-<summary> ### 2010 </summary>
+### 2010 
 
 Rocconi, L. M. (2010). An application of Pace’s model of student development and college impress on learning community students. *American Journal of Educational Studies*, 3(1), 39-51. [Download paper](/files/Rocconi_2010_AJES.pdf){: .btn--research}
 
-</details>
 
-<details>
-<summary> ### 2009 </summary>
+### 2009 
 
 Rocconi, L. M., & Ethington, C. A. (2009). [Assessing longitudinal change: Adjustment for regression to the mean effects.](https://link.springer.com/article/10.1007/s11162-009-9119-x) *Research in Higher Education*, 50(4), 368-376.
 
 Smart, J. C., Ethington, C. A., Umbach, P. D., & Rocconi, L. M. (2009). [Faculty emphases on alternative course-specific learning outcomes in Holland’s model environments: The role of environmental consistency.](https://link.springer.com/article/10.1007/s11162-009-9125-z) *Research in Higher Education*, 50(5), 483-501.
-
-</details>
 
