@@ -15,7 +15,7 @@ Each function requires only one argument, the name of the data frame object stor
 `stats(myData)` <br/>
 `freq2(myData)`
 
-You can download the file [here](/file/software/freqstats.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/freqstats.R")`.
+You can download the file [here](/file/software/freqstats.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/freqstats.R")`
 
 	
 ## Structure Matrix
@@ -27,7 +27,7 @@ The arguments in the function include:
 
 Example `structureMatrix(fa_1, .4)` 
 
-You can download the file [here](/files/software/structureMatrix.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/structureMatrix.R")`.
+You can download the file [here](/files/software/structureMatrix.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/structureMatrix.R")`
 
 
 ## Item Complexity
@@ -35,7 +35,7 @@ This function compute Hoffman's item complexity index. This is mainly for teachi
 
 Example `complexity(c(.40, .29, .10, .03, .01, .04))`
 
-You can download the file [here](/files/software/complexity.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/complexity.R")`.
+You can download the file [here](/files/software/complexity.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/complexity.R")`
 
 
 ## Clean Matrix
@@ -48,6 +48,26 @@ The arguments in the function include:
 Example `cleanMatrix(myMatrix, c(var1, var3, var7))`
 
 You can download the file [here](/files/software/cleanMatrix.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/cleanMatrix.R")`
+
+
+## Relative Efficiency 
+This function calculates the Relative Efficiency statistic for multiply imputed variables. Relative efficiency indicates the quality of the pooled estimates. The closer to 1 the better. It is based on the fraction of missing information and the number of imputations. $RE = \frac{1}{1+FMI/m}$ See Heymans, M. W. (2019). *Applied Missing Data Analysis with SPSS and (R)Studio.* (formula 10.4)[https://bookdown.org/mwheymans/bookmi/measures-of-missing-data-information.html]
+
+The function takes a returned pooled `mice` object of class `mira`. Example: <br/>
+`model <- with(imputed_data, lm(dv ~ iv1 + iv2 + iv3))` <br/>
+`RE(pool(model))`
+
+You can download the file [here](/files/software/RE.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/RE.R")` 
+
+
+## Pooled R-squared
+This function reports summary statistics for R-squared and adjusted R-squared for a pooled multiple imputation model from `mice`. It reports the minimum, maximum, average, and median R-squared and adjusted R-squared values across the m imputations. 
+
+The function takes a returned pooled `mice` object of class `mira`. Example: <br/>
+`model <- with(imputed_data, lm(dv ~ iv1 + iv2 + iv3))` <br/>
+`poolR2(model)`
+
+You can download the file [here](/files/software/poolR2.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/poolR2.R")` 
 
 
 ## Monte Carlo Confidence Interval for Indirect Effects
@@ -66,6 +86,7 @@ Each argument is required. *Note:* Currently only compute 95% CI.
 Example `mcci(.365, .066, .725, .058)`   
 
 You can download the file [here](/files/software/mcci.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/mcci.R")`
+
 
 
 # SPSS
@@ -90,7 +111,7 @@ Example 90% CI for a dependent samples t-test:
 Example 95% CI for single-sample t-test:
 	`!ESCI N1=36 CL=95 paired=1 obs_t=2.95.`
 
-You can download the file [here](/files/software/EffectSizeCI.sps) or source it directly from the website: `insert file = "https://lrocconi.github.io/files/software/EffectSizeCI.sps".`.
+You can download the file [here](/files/software/EffectSizeCI.sps) or source it directly from the website: `insert file = "https://lrocconi.github.io/files/software/EffectSizeCI.sps".`
 
 
 ## Monte Carlo Confidence Interval for Indirect Effects
