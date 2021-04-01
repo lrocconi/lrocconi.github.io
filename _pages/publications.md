@@ -26,7 +26,7 @@ Richardson, R., Rocconi, L.M., & Crewdson, M. (2020). [Evaluating English Learne
 
 Rocconi, L. M., Xiqian, L., & Pike, G. R. (2020). [Holland’s theory and the impact of person-environment fit on grades, perceived gains, and satisfaction](https://doi.org/10.1007/s10734-020-00519-0). *Higher Education*, (80)5, 857-874. 
 
-Gibson, T., Morrow, J. A., & Rocconi, L. M. (2020). [A modernized heuristic approach to robust exploratory factor analysis.](https://www.tqmp.org/RegularArticles/vol16-4/p295/) *The Quantitative Methods for Psychology*, 16(4), 295-307. [Download paper]('https://www.tqmp.org/RegularArticles/vol16-4/p295/p295.pdf'){: .btn--research}
+Gibson, T., Morrow, J. A., & Rocconi, L. M. (2020). [A modernized heuristic approach to robust exploratory factor analysis.](https://www.tqmp.org/RegularArticles/vol16-4/p295/) *The Quantitative Methods for Psychology*, 16(4), 295-307. [pdf]('https://www.tqmp.org/RegularArticles/vol16-4/p295/p295.pdf'){: .btn--research}
  
 Gibson, T. O. Jr., Morrow, J. A., Skolits, G. J., & Rocconi, L. M. (2020). [Students’ Experiences Learning in the Emporium Model (E-Model).](https://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10870059&AN=146098448&h=RuH1z%2bFts42ZKmxQN%2fD5OMvCB4hN6OQj7E1l0Ee%2bZd6HFqzTA757onNGdTMLX80G1xp%2fefGLLWN3vMXN%2fLKe4A%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d10870059%26AN%3d146098448) *The Learning Assistance Review*, 25(2), 51-83.
 
@@ -35,9 +35,9 @@ Rocconi, L. M., Dumford, A. D., & Butler, B. (2020). [How often is ‘often’: 
 
 ### 2019 
 
-Rocconi, L. M., Taylor, A., Haeger, H., Zilvinskis, J., & Christensen, C. (2019). [Beyond the numbers: An examination of diverse interactions in law school.](https://doi.apa.org/doi/10.1037/dhe0000080) *Journal of Diversity in Higher Education*, 12(1), 27-37. [Download paper](https://lssse.indiana.edu/wp-content/uploads/2019/04/2019-Journal-of-Diversity-in-Higher-Education.pdf){: .btn--research}
+Rocconi, L. M., Taylor, A., Haeger, H., Zilvinskis, J., & Christensen, C. (2019). [Beyond the numbers: An examination of diverse interactions in law school.](https://doi.apa.org/doi/10.1037/dhe0000080) *Journal of Diversity in Higher Education*, 12(1), 27-37. [pdf](https://lssse.indiana.edu/wp-content/uploads/2019/04/2019-Journal-of-Diversity-in-Higher-Education.pdf){: .btn--research}
 
-Rocconi, L. M., & Gonyea, R. (2018/2019). [Contextualizing student engagement effect sizes: An empirical analysis.](https://www.rpajournal.com/contextualizing-effect-sizes-in-the-national-survey-of-student-engagement-an-empirical-analysis/) *Research & Practice in Assessment*, 13, 22-38. [Download paper]('https://files.eric.ed.gov/fulltext/EJ1203523.pdf'){: .btn--research}
+Rocconi, L. M., & Gonyea, R. (2018/2019). [Contextualizing student engagement effect sizes: An empirical analysis.](https://www.rpajournal.com/contextualizing-effect-sizes-in-the-national-survey-of-student-engagement-an-empirical-analysis/) *Research & Practice in Assessment*, 13, 22-38. [pdf]('https://files.eric.ed.gov/fulltext/EJ1203523.pdf'){: .btn--research}
 
 Rocconi, L. M. (2019). [A glimpse beyond the numbers.](http://lssse.indiana.edu/blog/guest-post-a-glimpse-beyond-the-numbers/) The Law School Survey of Student Engagement Guest Blog Post.  
 
@@ -78,7 +78,7 @@ Rocconi, L. M. (2013). [Analyzing multilevel data: Comparing findings from hiera
 
 Rocconi, L. M., Lambert, A. D., McCormick, A. C., & Sarraf, S. A. (2013). [Making college count: An examination of quantitative reasoning activities in higher education.](http://scholarcommons.usf.edu/numeracy/vol6/iss2/art10) *Numeracy*, 6(2), Article 10.  
 
-Silver, C., Rocconi, L. M., Haeger, H., & Watkins, L. (2013). [Gaining from the system: Lessons from the Law School Survey of Student Engagement about how students benefit from law school.](https://ir.stthomas.edu/ustlj/vol10/iss1/) *University of St. Thomas Law Journal*, 10(1), 286-316. [Download paper]('https://ir.stthomas.edu/cgi/viewcontent.cgi?article=1306&context=ustlj'){: .btn--research}
+Silver, C., Rocconi, L. M., Haeger, H., & Watkins, L. (2013). [Gaining from the system: Lessons from the Law School Survey of Student Engagement about how students benefit from law school.](https://ir.stthomas.edu/ustlj/vol10/iss1/) *University of St. Thomas Law Journal*, 10(1), 286-316. [pdf]('https://ir.stthomas.edu/cgi/viewcontent.cgi?article=1306&context=ustlj'){: .btn--research}
 
 
 ### 2012 
@@ -93,7 +93,7 @@ Rocconi, L. M. (2011). [The impact of learning communities on first year student
 
 ### 2010 
 
-Rocconi, L. M. (2010). An application of Pace’s model of student development and college impress on learning community students. *American Journal of Educational Studies*, 3(1), 39-51. [Download paper](/files/Rocconi_2010_AJES.pdf){: .btn--research}
+Rocconi, L. M. (2010). An application of Pace’s model of student development and college impress on learning community students. *American Journal of Educational Studies*, 3(1), 39-51. [pdf](/files/Rocconi_2010_AJES.pdf){: .btn--research}
 
 
 ### 2009 
