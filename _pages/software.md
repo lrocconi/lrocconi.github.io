@@ -10,12 +10,14 @@ In the near future, I plan on submitting these function to CRAN.
 The majority of my students come to R after using SPSS for most of their careers. One issue they seem to grapple with is running frequency statistics in R. While there are many packages that provide descriptive statistics (e.g., `psych::describe`, `skimr::skim`), I wanted (1) a lightweight function that just prints frequency tables for all variables in a data frame, including NAs, regardless of type (e.g., factor, numeric): `freq`  and (2) a function that prints a frequency table, including NAs, valid cases, and proportions, for factor variables and descriptive statistics (min, 1st quartile, median, 3rd quartile, max, mean, standard deviation, and number of missing cases) for numeric variables: `stats`. There is also an auxiliary function, `freq2` that prints a frequency table along with number missing and proportions for all variables in a data frame regardless of type. 
 
 Each function requires only one argument, the name of the data frame object stored in R. *Note:* `stats` only works if every variable in the data frame is either a factor or numeric variable. Character variables will throw an error cause the function not to work. 
-	freq(myData)
-	stats(myData)
-	freq2(myData)
+```R
+freq(myData)
+stats(myData)
+freq2(myData)
+```
 
 You can download the file [here](/file/software/freqstats.R) or source it directly from the website
-	source("lrocconi.github.io/files/software/freqstats.R")
+	source("https://lrocconi.github.io/files/software/freqstats.R")
 	stats(myData)
 	
 ## Structure Matrix
@@ -28,7 +30,7 @@ The arguments in the function include:
 Example `structureMatrix(fa_1, .4)` 
 
 You can download the file [here](/files/software/structureMatrix.R) or source it directly from the website
-	source("lrocconi.github.io/files/software/structureMatrix.R")
+	source("https://lrocconi.github.io/files/software/structureMatrix.R")
 	structureMatrix(fa_1, .4)
 
 ## Item Complexity
@@ -37,7 +39,7 @@ This function compute Hoffman's item complexity index. This is mainly for teachi
 Example `complexity(c(.40, .29, .10, .03, .01, .04))`
 
 You can download the file [here](/files/software/complexity.R) or source it directly from the website
-	source("lrocconi.github.io/files/software/complexity.R")
+	source("https://lrocconi.github.io/files/software/complexity.R")
 
 ## Clean Matrix
 This function removes rows and columns from a correlation matrix. This is useful when performing an exploratory factor analysis using a correlation matrix and one needs to drop a variable from the analysis. 
@@ -49,7 +51,7 @@ The arguments in the function include:
 Example `cleanMatrix(myMatrix, c(var1, var3, var7))`
 
 You can download the file [here](/files/software/cleanMatrix.R) or source it directly from the website
-	source("lrocconi.github.io/files/software/cleanMatrix.R")
+	source("https://lrocconi.github.io/files/software/cleanMatrix.R")
 
 ## Monte Carlo Confidence Interval for Indirect Effects
 This function `mcci` computes Mote Carlo confidence intervals for indirect effects when performing path analysis using OLS regression. This macro is based on the discussion on inferences for indirect effects from  Darlington & Hayes (2017, pp. 455-464) *Regression analysis and linear models*.
@@ -67,7 +69,7 @@ Each argument is required. *Note:* Currently only compute 95% CI.
 Example `mcci(.365, .066, .725, .058)`   
 
 You can download the file [here](/files/software/mcci.R) or source it directly from the website
-	source("lrocconi.github.io/files/software/mcci.R")
+	source("https://lrocconi.github.io/files/software/mcci.R")
 	mcci(.365, .066, .725, .058)
 
 
@@ -94,7 +96,7 @@ Example 95% CI for single-sample t-test:
 	!ESCI N1=36 CL=95 paired=1 obs_t=2.95.
 
 You can download the file [here](/files/software/EffectSizeCI.sps) or source it directly from the website
-	insert file = "lrocconi.github.io/files/software/EffectSizeCI.sps"
+	insert file = "https://lrocconi.github.io/files/software/EffectSizeCI.sps"
 	!ESCI N1=20 N2=15 CL=99 obs_t=.87. 
 
 ## Monte Carlo Confidence Interval for Indirect Effects
@@ -112,6 +114,6 @@ The macro name is `!mcci` and must be called first. Each argument is required.
 Example `!mcci b1 = .365 se1 = .066 b2 = .725 se2 = .058 seed= 12345.`   
 
 You can download the file [here](/files/software/MonteCarloCI.sps) or source it directly from the website
-	insert file = "lrocconi.github.io/files/software/MonteCarloCI.sps"
+	insert file = "https://lrocconi.github.io/files/software/MonteCarloCI.sps"
 	!mcci b1 = .365 se1 = .066 b2 = .725 se2 = .058 seed= 12345.
 	
