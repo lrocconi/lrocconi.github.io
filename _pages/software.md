@@ -2,10 +2,11 @@
 permalink: /software/
 title: "Software"
 ---
-These are some helper functions I've written in R and SPSS to go along with EDPY 678 Statistics in Applied Fields III and EDPY 667 Multilevel Modeling. In the near future, I plan on submitting these function to CRAN. 
+These are some helper functions I've written in R and SPSS to go along with EDPY 678 Statistics in Applied Fields III, EDPY 680 Advanced Educational Measurement, and EDPY 667 Multilevel Modeling. In the near future, I plan on submitting the R function to CRAN. 
 
 # R
-![Stats 3 hex logo](/images/stats3-hex-logo.png =250x250)
+<img src="/images/stats3-hex-logo.png" alt="Stats 3 hex logo" style="height: 250px; width:250px;"/>
+
 ## Quick Frequency and Descriptive Statistics
 The majority of my students come to R after using SPSS for most of their careers. One issue they seem to grapple with is running frequency statistics in R. While there are many packages that provide descriptive statistics (e.g., `psych::describe`, `skimr::skim`), I wanted (1) a lightweight function that just prints frequency tables for all variables in a data frame, including NAs, regardless of type (e.g., factor, numeric): `freq`  and (2) a function that prints a frequency table, including NAs, valid cases, and proportions, for factor variables and descriptive statistics (min, 1st quartile, median, 3rd quartile, max, mean, standard deviation, and number of missing cases) for numeric variables: `stats`. There is also an auxiliary function, `freq2` that prints a frequency table along with number missing and proportions for all variables in a data frame regardless of type. 
 
