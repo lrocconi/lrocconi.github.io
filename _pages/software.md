@@ -5,7 +5,7 @@ title: "Software"
 These are some helper functions I've written in R and SPSS to go along with EDPY 678 Statistics in Applied Fields III and EDPY 667 Multilevel Modeling. In the near future, I plan on submitting these function to CRAN. 
 
 # R
-![Stats 3 hex logo](/images/stats3-hex-logo.png = 250x250)
+![Stats 3 hex logo](/images/stats3-hex-logo.png =250x250)
 ## Quick Frequency and Descriptive Statistics
 The majority of my students come to R after using SPSS for most of their careers. One issue they seem to grapple with is running frequency statistics in R. While there are many packages that provide descriptive statistics (e.g., `psych::describe`, `skimr::skim`), I wanted (1) a lightweight function that just prints frequency tables for all variables in a data frame, including NAs, regardless of type (e.g., factor, numeric): `freq`  and (2) a function that prints a frequency table, including NAs, valid cases, and proportions, for factor variables and descriptive statistics (min, 1st quartile, median, 3rd quartile, max, mean, standard deviation, and number of missing cases) for numeric variables: `stats`. There is also an auxiliary function, `freq2` that prints a frequency table along with number missing and proportions for all variables in a data frame regardless of type. 
 
@@ -88,7 +88,6 @@ Example `mcci(.365, .066, .725, .058)`
 You can download the file [here](/files/software/mcci.R) or source it directly from the website: `source("https://lrocconi.github.io/files/software/mcci.R")`
 
 # SPSS Macros
-
 ## An SPSS Macro for Computing Confidence Intervals for Effect Sizes
 Until recently (e.g., SPSS 27), SPSS did not compute standardized mean difference effect sizes (e.g., Cohen's d) for users when performing an independent samples or paired samples t-tests. It currently still does not compute variance explained effect sizes (e.g., eta-squared) for these analyses. This macro computes Cohen's d, Hedge's g, Eta-Squared, and Omega-Squared for independent, dependent, and single sample t-tests and their confidence intervals based off of the non-central t parameter. 
 
