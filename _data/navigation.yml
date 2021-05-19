@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Research"
-    url: /research/    
 
   - title: "Awards"
     url: /awards/   
@@ -18,4 +15,3 @@ main:
   - title: "CV"
     url: /cv/
     
-
