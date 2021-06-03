@@ -11,7 +11,7 @@ This page contains links to some of my scholarly publications. For a complete li
 
 Pacheco Diaz, N., Walker, J. P., Rocconi, L. M., Morrow, J. A., Skolits, G. J., Osborne, J. D., & Parlier, T. R. (accepted). Faculty use of end-of-course evaluations. *International Journal of Teaching and Learning in Higher Education*. 
 
-Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). The effects of learning community participation on community college students’ learning outcomes and student engagement. *Community College Journal of Research and Practice*. 
+Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). [The effects of learning community participation on community college students’ learning outcomes and student engagement.](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1852983) *Community College Journal of Research and Practice*. 
 
 Zilvinskis, J., Rocconi, L. M., & McCormick, A. (in press). Does teaching count? The relationship between US News faculty resource measures and students’ experiences with faculty. In E. Hazelkorn (Ed.), *Research Handbook on University Rankings*.
 
