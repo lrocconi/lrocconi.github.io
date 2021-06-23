@@ -6,7 +6,7 @@ main:
   - title: "Awards"
     url: /awards/   
     
-  - title: "Software"
+  - title: "Code"
     url: /software/    
     
   - title: "CV"
