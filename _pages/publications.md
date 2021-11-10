@@ -9,11 +9,18 @@ This page contains links to some of my scholarly publications. For a complete li
 
 ### 2021 
 
+McCallum, R., Kirkpatrick, B., Heidel, R., Rocconi, L. M., Price, C., Gee, K., Lewis, J. (accepted). Validating a Novel Emotional Intelligence Instrument for Resident Physicians. *Evaluation & the Health Professions*.
+
+Pacheco Diaz, N. & Rocconi, L. M. (accepted for publication). Science achievement in Chilean students: A multilevel model approach. *Journal of Research in STEM Education*.
+
 Pacheco Diaz, N., Walker, J. P., Rocconi, L. M., Morrow, J. A., Skolits, G. J., Osborne, J. D., & Parlier, T. R. (accepted). Faculty use of end-of-course evaluations. *International Journal of Teaching and Learning in Higher Education*. 
+
+Boyd, A. T. & Rocconi, L. M. (2021) Formatting data for one and two mode undirected social network analysis. *Practical Assessment, Research, and Evaluation*, 26(24), 1-10.
+Available at: https://scholarworks.umass.edu/pare/vol26/iss1/24
 
 Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). [The effects of learning community participation on community college students’ learning outcomes and student engagement.](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1852983) *Community College Journal of Research and Practice*. 
 
-Zilvinskis, J., Rocconi, L. M., & McCormick, A. (in press). Does teaching count? The relationship between US News faculty resource measures and students’ experiences with faculty. In E. Hazelkorn (Ed.), *Research Handbook on University Rankings*.
+Zilvinskis, J., Rocconi, L. M., & McCormick, A. (in press). [Does teaching count? The relationship between US News faculty resource measures and students’ experiences with faculty.](https://www.e-elgar.com/shop/gbp/research-handbook-on-university-rankings-9781788974974.html) In E. Hazelkorn (Ed.), *Research Handbook on University Rankings*.
 
 Walker, J. P. & Rocconi, L. M. (2021). [Problem-solving ability in courses with multiple types of experiential learning](https://journals.uc.edu/index.php/jrpct/article/view/3816). *Journal for Research & Practice in College Teaching*, 6(1), 137-160. 
 
