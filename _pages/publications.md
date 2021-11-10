@@ -15,8 +15,7 @@ Pacheco Diaz, N. & Rocconi, L. M. (accepted for publication). Science achievemen
 
 Pacheco Diaz, N., Walker, J. P., Rocconi, L. M., Morrow, J. A., Skolits, G. J., Osborne, J. D., & Parlier, T. R. (accepted). Faculty use of end-of-course evaluations. *International Journal of Teaching and Learning in Higher Education*. 
 
-Boyd, A. T. & Rocconi, L. M. (2021) Formatting data for one and two mode undirected social network analysis. *Practical Assessment, Research, and Evaluation*, 26(24), 1-10.
-Available at: https://scholarworks.umass.edu/pare/vol26/iss1/24
+Boyd, A. T. & Rocconi, L. M. (2021) [Formatting data for one and two mode undirected social network analysis.](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1545&context=pare) *Practical Assessment, Research, and Evaluation*, 26(24), 1-10. Available at: [https://scholarworks.umass.edu/pare/vol26/iss1/24](https://scholarworks.umass.edu/pare/vol26/iss1/24)
 
 Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). [The effects of learning community participation on community college students’ learning outcomes and student engagement.](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1852983) *Community College Journal of Research and Practice*. 
 
