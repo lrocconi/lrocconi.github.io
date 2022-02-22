@@ -9,7 +9,7 @@ This page contains links to some of my scholarly publications. For a complete li
 
 ### 2021 
 
-McCallum, R., Kirkpatrick, B., Heidel, R., Rocconi, L. M., Price, C., Gee, K., Lewis, J. (accepted). Validating a Novel Emotional Intelligence Instrument for Resident Physicians. *Evaluation & the Health Professions*.
+McCallum, R., Kirkpatrick, B., Heidel, R., Rocconi, L. M., Price, C., Gee, K., Lewis, J. (2022). [Validating a Novel Emotional Intelligence Instrument for Resident Physicians.](https://doi.org/10.1177/01632787211061420) *Evaluation & the Health Professions*.
 
 Pacheco Diaz, N. & Rocconi, L. M. (accepted for publication). Science achievement in Chilean students: A multilevel model approach. *Journal of Research in STEM Education*.
 
