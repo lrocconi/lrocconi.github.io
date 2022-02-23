@@ -7,19 +7,25 @@ author_profile: true
 This page contains links to some of my scholarly publications. For a complete list of my scholarly publications, please see my [CV](/cv/). 
 
 
-### 2021 
+### 2022 
 
 McCallum, R., Kirkpatrick, B., Heidel, R., Rocconi, L. M., Price, C., Gee, K., Lewis, J. (2022). [Validating a Novel Emotional Intelligence Instrument for Resident Physicians.](https://doi.org/10.1177/01632787211061420) *Evaluation & the Health Professions*.
 
-Pacheco Diaz, N. & Rocconi, L. M. (accepted for publication). Science achievement in Chilean students: A multilevel model approach. *Journal of Research in STEM Education*.
+Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). [The effects of learning community participation on community college students’ learning outcomes and student engagement.](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1852983) *Community College Journal of Research and Practice*. 
+
+Wright, S., Skinner, C. H., Crewdson, M., Moore, T., McCurdy, M., Coleman, M. B., & Rocconi, L. M. (accepted). Using a tootling intervention to sequentially enhance and maintain at-risk elementary students’ performance of multiple social skills. *School Psychology*.
+
+Rocconi, L. M. & Boyd, A. T. (accepted). Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement. *Research in Higher Education*.
 
 Pacheco Diaz, N., Walker, J. P., Rocconi, L. M., Morrow, J. A., Skolits, G. J., Osborne, J. D., & Parlier, T. R. (accepted). Faculty use of end-of-course evaluations. *International Journal of Teaching and Learning in Higher Education*. 
 
+### 2021
+
+Pacheco Diaz, N. & Rocconi, L. M. (2021). [Science achievement in Chilean students: A multilevel model approach.](https://doi.org/10.51355/jstem.2021.100) *Journal of Research in STEM Education*, 7(2), 93-116.
+
 Boyd, A. T. & Rocconi, L. M. (2021) [Formatting data for one and two mode undirected social network analysis.](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1545&context=pare) *Practical Assessment, Research, and Evaluation*, 26(24), 1-10. Available at: [https://scholarworks.umass.edu/pare/vol26/iss1/24](https://scholarworks.umass.edu/pare/vol26/iss1/24)
 
-Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). [The effects of learning community participation on community college students’ learning outcomes and student engagement.](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1852983) *Community College Journal of Research and Practice*. 
-
-Zilvinskis, J., Rocconi, L. M., & McCormick, A. (in press). [Does teaching count? The relationship between US News faculty resource measures and students’ experiences with faculty.](https://www.e-elgar.com/shop/gbp/research-handbook-on-university-rankings-9781788974974.html) In E. Hazelkorn (Ed.), *Research Handbook on University Rankings*.
+Zilvinskis, J., Rocconi, L. M., & McCormick, A. (2021). [Does teaching count? The relationship between US News faculty resource measures and students’ experiences with faculty.](https://www.e-elgar.com/shop/gbp/research-handbook-on-university-rankings-9781788974974.html) In E. Hazelkorn (Ed.), *Research Handbook on University Rankings*.
 
 Walker, J. P. & Rocconi, L. M. (2021). [Problem-solving ability in courses with multiple types of experiential learning](https://journals.uc.edu/index.php/jrpct/article/view/3816). *Journal for Research & Practice in College Teaching*, 6(1), 137-160. 
 
