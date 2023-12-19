@@ -15,7 +15,7 @@ Boyd, A., Morrow, J. M., & Rocconi, L. M. (2022). [Development and validation of
 
 Traga Philippakos, Z., Rocconi, L. M., Blake, K., & Summers, J. (2022). [Teachers’ practices during COVID-19: Practices and perspectives in elementary and secondary settings](https://doi.org/10.1016/j.ssaho.2022.100324). *Social Science & Humanities Open*, 6, 1-10. 
 
-Gibson, T., Morrow, J., & Rocconi, L. M. (2022). [Development and Validation of the Emporium Model Motivation Scale (EMMS)](https://www.adastrari.org/_files/ugd/d9226a_82fc67291f954ce396b7fd8d411a8df5.pdf https://secureservercdn.net/198.71.233.66/f0s.3d9.myftpupload.com/wp-content/uploads/2022/07/FR-Article-5.3.pdf ). *Future Review: International Journal of Transition, College, and Career Success*, 5(1), 24-38. 
+Gibson, T., Morrow, J., & Rocconi, L. M. (2022). [Development and Validation of the Emporium Model Motivation Scale (EMMS)](https://secureservercdn.net/198.71.233.66/f0s.3d9.myftpupload.com/wp-content/uploads/2022/07/FR-Article-5.3.pdf). *Future Review: International Journal of Transition, College, and Career Success*, 5(1), 24-38. 
 
 Peterson, C., Ortiz, R, & Rocconi, L.M., &. (2022). [Community food security: The muti-level association between social capital, economic capital, and diet quality](https://doi.org/10.1007/s42413-022-00170-w). *International Journal of Community Well-Being*, 5, 571-585.  
 
