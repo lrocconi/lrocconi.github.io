@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Louis Rocconi"
 title_separator          : "-"
 name                     : &name "Louis Rocconi"
-description              : &description "Assistant Professor Evaluation, Statistics, & Methodology"
+description              : &description "Associate Professor Evaluation, Statistics, & Methodology"
 url                      : https://lrocconi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lrocconi/lrocconi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Louis Rocconi"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, The University of Tennessee"
+  bio              : "Associate Professor, The University of Tennessee"
   location         : "Knoxville, TN"
   employer         : 
   pubmed           : 
