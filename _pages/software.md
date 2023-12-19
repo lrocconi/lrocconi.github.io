@@ -2,9 +2,10 @@
 permalink: /software/
 title: "Software"
 ---
-These are some helper functions I've written in R and SPSS to go along with EDPY 678 Statistics in Applied Fields III, EDPY 680 Advanced Educational Measurement, and EDPY 667 Multilevel Modeling. In the near future, I plan on submitting the R function to CRAN. 
+These are some helper functions I've written in R and SPSS to go along with EDPY 678 Statistics in Applied Fields III, EDPY 680 Advanced Educational Measurement, and EDPY 667 Multilevel Modeling.  
 
-See [GitHub](https://github.com/lrocconi/mlmhelpr) for `mlmhelpr`: A collection of helper functions for the `lme4` package in `R`. 
+See [CRAN]([https://github.com/lrocconi/mlmhelpr](https://cran.r-project.org/web/packages/mlmhelpr/index.html)) for `mlmhelpr`: A collection of miscellaneous helper functions for running multilevel/mixed models in the `lme4` package in `R`. 
+See [Github](https://github.com/lrocconi/utkesm) for `utkesm`: A collection of helper functions for the University of Tennessee, Knoxville (UTK) Evaluation, Statistics, and Methodology (ESM) program.
 
 # R
 <img src="/images/stats3-hex-logo.png" alt="Stats 3 hex logo" style="height: 250px; width:250px;"/>
