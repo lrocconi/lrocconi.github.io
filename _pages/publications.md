@@ -7,17 +7,31 @@ author_profile: true
 This page contains links to some of my scholarly publications. For a complete list of my scholarly publications, please see my [CV](/cv/). 
 
 
-### 2022 
+### 2022 & 2023
+
+Traga Philippakos, Z., MacAuthur, C., & Rocconi, L. M. (2023). [Effects of genre-based writing professional development on K to 2 teachers’ confidence and students’ writing quality](https://doi.org/10.1016/j.tate.2023.104316). *Teaching and Teacher Education*, 135.
+
+Boyd, A., Morrow, J. M., & Rocconi, L. M. (2022). [Development and validation of the Parasocial Relationship in Social Media Survey](https://thejsms.org/index.php/JSMS/article/view/1085/597 ). *The Journal of Social Media in Society*, 11(2), 192-208. 
+
+Traga Philippakos, Z., Rocconi, L. M., Blake, K., & Summers, J. (2022). [Teachers’ practices during COVID-19: Practices and perspectives in elementary and secondary settings](https://doi.org/10.1016/j.ssaho.2022.100324). *Social Science & Humanities Open*, 6, 1-10. 
+
+Gibson, T., Morrow, J., & Rocconi, L. M. (2022). [Development and Validation of the Emporium Model Motivation Scale (EMMS)](https://www.adastrari.org/_files/ugd/d9226a_82fc67291f954ce396b7fd8d411a8df5.pdf https://secureservercdn.net/198.71.233.66/f0s.3d9.myftpupload.com/wp-content/uploads/2022/07/FR-Article-5.3.pdf ). *Future Review: International Journal of Transition, College, and Career Success*, 5(1), 24-38. 
+
+Peterson, C., Ortiz, R, & Rocconi, L.M., &. (2022). [Community food security: The muti-level association between social capital, economic capital, and diet quality](https://doi.org/10.1007/s42413-022-00170-w). *International Journal of Community Well-Being*, 5, 571-585.  
+
+Rocconi, L. M. & Boyd, A. T. (2022). [Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement](https://doi.org/10.1007/s11162-022-09682-y). *Research in Higher Education*, 63, 1261-1282. 
+
+Wright, S., Skinner, C. H., Crewdson, M., Moore, T., McCurdy, M., Coleman, M. B., & Rocconi, L. M. (2022). [Using a tootling intervention to sequentially enhance and maintain at-risk elementary students’ performance of multiple social skills](https://doi.org/10.1037/spq0000499). *School Psychology*, 37(3), 248-258. . Impact Factor (2021) = 3.286
+
+McCallum, R., Kirkpatrick, B., Heidel, R., Rocconi, L. M., Price, C., Gee, K., Lewis, J. (2022). Validating a Novel Emotional Intelligence Instrument for Resident Physicians. Evaluation & the Health Professions, 45(3), 277-287. https://doi.org/10.1177/01632787211061420 
+
+Pacheco Diaz, N., *Walker, J. P., Rocconi, L. M., Morrow, J. A., Skolits, G. J., *Osborne, J. D., & *Parlier, T. R. (2022). Faculty use of end-of-course evaluations. International Journal of Teaching and Learning in Higher Education, 33(3), 285-297. https://www.isetl.org/ijtlhe/pdf/IJTLHE4083.pdf 
 
 McCallum, R., Kirkpatrick, B., Heidel, R., Rocconi, L. M., Price, C., Gee, K., Lewis, J. (2022). [Validating a Novel Emotional Intelligence Instrument for Resident Physicians.](https://doi.org/10.1177/01632787211061420) *Evaluation & the Health Professions*.
 
-Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (accepted). [The effects of learning community participation on community college students’ learning outcomes and student engagement.](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1852983) *Community College Journal of Research and Practice*. 
+Parlier, R., Rocconi, L. M., Davison, C., & Skolits, G. (2022). [The effects of learning community participation on community college students’ learning outcomes and student engagement.](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1852983) *Community College Journal of Research and Practice*, 46(4), 272-283.
 
-Wright, S., Skinner, C. H., Crewdson, M., Moore, T., McCurdy, M., Coleman, M. B., & Rocconi, L. M. (accepted). Using a tootling intervention to sequentially enhance and maintain at-risk elementary students’ performance of multiple social skills. *School Psychology*.
-
-Rocconi, L. M. & Boyd, A. T. (accepted). Measuring Quality in Legal Education: Examining the Relationship between Law School Rank and Student Engagement. *Research in Higher Education*.
-
-Pacheco Diaz, N., Walker, J. P., Rocconi, L. M., Morrow, J. A., Skolits, G. J., Osborne, J. D., & Parlier, T. R. (accepted). Faculty use of end-of-course evaluations. *International Journal of Teaching and Learning in Higher Education*. 
+Pacheco Diaz, N., Walker, J. P., Rocconi, L. M., Morrow, J. A., Skolits, G. J., Osborne, J. D., & Parlier, T. R. (2022). [Faculty use of end-of-course evaluations](https://www.isetl.org/ijtlhe/pdf/IJTLHE4083.pdf). *International Journal of Teaching and Learning in Higher Education*, 33(3), 285-297
 
 ### 2021
 
