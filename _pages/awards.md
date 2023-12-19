@@ -3,6 +3,14 @@ permalink: /awards/
 title: "Awards"
 ---
 
+* 2023 **Outstanding Graduate Professor** from the Graduate Student Senate at the University of Tennessee
+  
+* 2023 **Helen B. Watson Faculty/Student Award** for Outstanding Doctoral Dissertation from the College of Education, Health, and Human Sciences at the University of Tennessee
+  
+* 2023 **Excellence in Graduate Student Mentorship Award** from the Department of Educational, Leadership and Policy Studies.
+  
+* 2022 **Louie M. and Betty M. Phillips Faculty Support in Education Award** from the College of Education, Health, and Human Sciences at the University of Tennessee
+
 * **Charles F. Elton [Best Paper Award 2018](https://www.airweb.org/resources/awards-scholarships/awards/charles-f.-elton-best-paper-award/elton-best-papers)** from the Association for Institutional Research. Awarded in 2020 for "How often if 'often': Examining the meaning of vague quantifiers in higher education" published in [*Research in Higher Education*](https://link.springer.com/article/10.1007/s11162-020-09587-8). 
 
 * **Top Poster Award** at the 2019 American Psychological Association, Division 16 (School Psychology) for *Do Acadience Pathways of 
