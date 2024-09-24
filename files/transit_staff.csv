@@ -1,0 +1,201 @@
+ID,sex,class,motor,transport,timetravel,walkdist,streetpark,convenience,shuttle,wait4shuttle,pay4shuttle
+1,Female,Staff,yes,Bus,41,1+ miles,never,very good,Yes,7,$0 
+22,Female,Faculty,yes,Motorcycle,8,1/2 - 1 mile,never,fair,Yes,2,will not ride
+25,Female,Staff,yes,Walk,32,<1/4 mile,sometimes,fair,Maybe,22,$0.50 
+37,Female,Staff,yes,Walk,5,1/2 - 1 mile,never,very good,Yes,13,$0.50 
+46,Female,Staff,yes,Auto,40,1/2 - 1 mile,never,fair,Yes,5,$0.50 
+54,Male,Staff,yes,Auto,11,1+ miles,sometimes,good,Yes,7,$0.50 
+56,Female,Faculty,yes,Auto,15,1/2 - 1 mile,never,good,Maybe,7,$0 
+57,Female,Staff,yes,Auto,33,1+ miles,sometimes,poor,Yes,2,$1 
+58,Female,Faculty,yes,Walk,21,1/4 - 1/2 mile,always,fair,Maybe,6,$0.50 
+69,Male,Staff,yes,Auto,33,1/4 - 1/2 mile,sometimes,fair,Yes,5,$0 
+71,Female,Staff,yes,Auto,16,<1/4 mile,never,good,No,will not ride,will not ride
+76,Male,Faculty,yes,Walk,22,<1/4 mile,never,very good,No,4,$0 
+90,Female,Staff,yes,Walk,18,1/4 - 1/2 mile,never,fair,Maybe,2,$0.50 
+97,Female,Faculty,yes,Auto,18,1/4 - 1/2 mile,never,very good,Yes,6,$1 
+100,Male,Staff,yes,Auto,22,1/4 - 1/2 mile,never,fair,Yes,7,$0.50 
+103,Male,Staff,yes,Auto,16,1+ miles,sometimes,fair,Maybe,10,$0.50 
+115,Female,Staff,yes,Auto,17,1/2 - 1 mile,never,fair,Yes,6,$0.50 
+144,Female,Staff,yes,Auto,16,1/2 - 1 mile,sometimes,fair,Yes,0,$0.50 
+152,Female,Faculty,yes,Auto,33,1/2 - 1 mile,never,fair,Yes,6,$1 
+153,Female,Faculty,yes,Auto,4,1+ miles,never,fair,Yes,6,$1 
+156,Female,Staff,yes,Bus,25,1/4 - 1/2 mile,never,poor,Yes,2,$0.50 
+200,Female,Staff,yes,Auto,29,1+ miles,never,fair,Maybe,13,$1 
+202,Male,Faculty,yes,Auto,19,1/4 - 1/2 mile,never,very good,Yes,14,$1 
+209,Female,Staff,yes,Auto,44,1+ miles,never,very good,Maybe,6,$0.50 
+216,Female,Staff,yes,Bus,17,<1/4 mile,never,very good,Maybe,will not ride,$1 
+219,Female,Faculty,yes,Bus,58,1/2 - 1 mile,never,good,No,will not ride,will not ride
+224,Female,Faculty,yes,Auto,61,<1/4 mile,always,very poor,Yes,3,$0 
+227,Female,Staff,yes,Auto,56,1/4 - 1/2 mile,never,good,Maybe,will not ride,$0 
+229,Male,Faculty,yes,Auto,43,1/4 - 1/2 mile,never,very good,Yes,6,$0 
+236,Male,Faculty,yes,Auto,52,1/2 - 1 mile,never,very good,Maybe,2,$0 
+237,Male,Staff,yes,Auto,43,<1/4 mile,never,fair,Maybe,1,$0.50 
+238,Female,Faculty,yes,Auto,58,1/4 - 1/2 mile,never,very good,Yes,15,$0.50 
+240,Female,Staff,no,Bus,53,<1/4 mile,never,very poor,Maybe,9,$1 
+244,Female,Staff,no,Bus,46,<1/4 mile,never,very poor,Maybe,7,$1 
+246,Female,Staff,yes,Auto,51,<1/4 mile,never,very poor,No,will not ride,will not ride
+250,Female,Staff,yes,Auto,57,<1/4 mile,never,very good,Maybe,6,$0.50 
+251,Female,Faculty,yes,Auto,60,<1/4 mile,never,very poor,No,will not ride,will not ride
+260,Male,Staff,yes,Auto,55,1/4 - 1/2 mile,always,fair,Maybe,1,$0 
+271,Male,Faculty,yes,Auto,53,1/4 - 1/2 mile,never,good,Yes,10,$0 
+287,Female,Staff,yes,Bus,61,1+ miles,never,very good,Maybe,13,$0.50 
+291,Female,Staff,yes,Auto,48,1/4 - 1/2 mile,never,very good,No,will not ride,will not ride
+321,Male,Faculty,yes,Auto,44,1+ miles,never,very good,Maybe,8,$0.50 
+326,Male,Staff,yes,Auto,55,<1/4 mile,never,good,Yes,9,$1 
+336,Female,Staff,yes,Auto,61,1/2 - 1 mile,never,fair,Yes,11,$0.50 
+342,Female,Staff,yes,Auto,60,<1/4 mile,never,good,Maybe,0,will not ride
+356,Male,Staff,yes,Auto,60,1+ miles,never,fair,Yes,7,$0.50 
+357,Male,Staff,yes,Auto,45,1/4 - 1/2 mile,never,very good,Yes,7,$0 
+365,Female,Staff,yes,Auto,43,1/4 - 1/2 mile,never,poor,Maybe,3,$0.50 
+368,Female,Faculty,yes,Auto,49,1/2 - 1 mile,never,good,Yes,7,$0.50 
+387,Male,Staff,yes,Bus,43,1/4 - 1/2 mile,never,fair,Yes,15,$0.50 
+391,Female,Staff,yes,Auto,45,1/4 - 1/2 mile,never,very poor,Yes,12,$0.50 
+392,Male,Faculty,yes,Walk,55,1/2 - 1 mile,never,good,Yes,1,$0 
+410,Female,Staff,yes,Auto,52,1/2 - 1 mile,never,very good,Yes,8,$1 
+412,Female,Staff,yes,Auto,61,1+ miles,sometimes,fair,Yes,5,$1 
+418,Female,Staff,yes,Auto,45,1/4 - 1/2 mile,sometimes,good,Yes,15,$0.50 
+420,Female,Staff,yes,Auto,40,1/4 - 1/2 mile,never,poor,Yes,9,$3 
+422,Female,Staff,yes,Auto,50,1/2 - 1 mile,never,very good,No,9,$0 
+423,Female,Staff,yes,Auto,56,1+ miles,never,very poor,Maybe,8,$0 
+461,Female,Staff,yes,Auto,54,1/4 - 1/2 mile,always,fair,No,will not ride,$0 
+468,Female,Staff,yes,Auto,58,1/2 - 1 mile,never,good,Maybe,10,$1 
+478,Female,Staff,yes,Auto,53,1/4 - 1/2 mile,never,good,Maybe,3,$0.50 
+488,Female,Staff,yes,Bus,51,1/4 - 1/2 mile,never,very poor,No,2,will not ride
+499,Female,Staff,yes,Auto,58,1/2 - 1 mile,sometimes,poor,Maybe,8,will not ride
+500,Female,Staff,yes,Auto,41,1/4 - 1/2 mile,never,good,Yes,4,$1 
+513,Male,Staff,yes,Bus,56,1+ miles,never,good,Yes,9,$0.50 
+533,Male,Faculty,yes,Bicycle,61,1/2 - 1 mile,never,fair,Maybe,22,$0.50 
+536,Female,Staff,yes,Auto,58,1+ miles,never,good,Maybe,14,$1 
+537,Male,Faculty,yes,Auto,49,1/2 - 1 mile,never,fair,Yes,9,$1 
+543,Male,Staff,yes,Auto,52,1/2 - 1 mile,never,fair,Maybe,9,$0 
+548,Female,Staff,yes,Auto,45,1/4 - 1/2 mile,never,fair,Yes,8,$0.50 
+551,Male,Staff,yes,Auto,61,1+ miles,sometimes,very good,Maybe,10,$1 
+557,Male,Staff,yes,Auto,60,1/2 - 1 mile,never,poor,Maybe,15,$1 
+558,Female,Staff,yes,Auto,50,1/4 - 1/2 mile,never,good,Yes,10,$0 
+569,Female,Staff,yes,Auto,41,1/4 - 1/2 mile,never,fair,Yes,10,$0 
+571,Female,Faculty,yes,Bicycle,61,1/2 - 1 mile,always,good,Yes,7,$1 
+578,Female,Staff,yes,Bus,51,1/4 - 1/2 mile,never,very good,No,will not ride,will not ride
+581,Male,Faculty,yes,Auto,61,1/2 - 1 mile,never,good,Yes,15,$1 
+596,Female,Staff,yes,Auto,59,<1/4 mile,sometimes,fair,Yes,1,$0 
+597,Female,Staff,yes,Auto,61,<1/4 mile,never,fair,Yes,10,$1 
+609,Female,Staff,yes,Motorcycle,57,1/4 - 1/2 mile,sometimes,fair,Yes,13,$0.50 
+638,Male,Staff,yes,Auto,45,1/2 - 1 mile,sometimes,poor,Yes,3,$0.50 
+682,Female,Faculty,yes,Auto,48,1/2 - 1 mile,always,fair,Maybe,9,$1 
+683,Male,Staff,yes,Auto,41,1+ miles,never,good,Maybe,8,$0.50 
+686,Female,Staff,yes,Auto,60,1/4 - 1/2 mile,never,fair,Maybe,6,$1 
+727,Female,Faculty,yes,Walk,41,1/2 - 1 mile,always,fair,Yes,13,$1 
+749,Male,Staff,yes,Auto,51,1/2 - 1 mile,always,very poor,Yes,11,$0 
+762,Male,Staff,yes,Auto,51,<1/4 mile,never,very good,Yes,6,$0.50 
+763,Female,Faculty,yes,Auto,55,<1/4 mile,sometimes,poor,Maybe,6,$0.50 
+795,Female,Faculty,yes,Walk,57,1/2 - 1 mile,sometimes,fair,Yes,2,$0.50 
+805,Male,Faculty,yes,Motorcycle,43,<1/4 mile,always,poor,Yes,15,$0 
+959,Female,Faculty,no,Auto,58,<1/4 mile,sometimes,fair,Yes,9,$0.50 
+963,Male,Faculty,yes,Auto,56,<1/4 mile,never,very good,Yes,4,$0 
+970,Female,Faculty,yes,Auto,57,<1/4 mile,always,good,Yes,6,$0.50 
+1020,Male,Staff,yes,Auto,45,1/2 - 1 mile,always,very good,Yes,will not ride,$0 
+1026,Male,Staff,yes,Auto,59,1/4 - 1/2 mile,never,fair,Maybe,3,$0 
+1034,Female,Staff,yes,Auto,42,1/4 - 1/2 mile,never,good,Yes,8,$0 
+1037,Female,Staff,yes,Auto,52,<1/4 mile,never,very poor,Yes,12,$1 
+1039,Female,Staff,yes,Auto,58,1/2 - 1 mile,never,very poor,Yes,8,$0 
+1046,Male,Staff,yes,Bicycle,41,1/2 - 1 mile,sometimes,fair,Maybe,will not ride,$1 
+1050,Female,Staff,yes,Auto,47,1/2 - 1 mile,never,good,Yes,4,$2 
+1057,Female,Staff,yes,Auto,41,1/2 - 1 mile,never,good,No,6,$0 
+1060,Female,Staff,yes,Auto,47,<1/4 mile,sometimes,poor,Yes,8,$0 
+1062,Male,Staff,yes,Auto,40,1/4 - 1/2 mile,never,very good,Maybe,4,$0.50 
+1081,Female,Staff,yes,Auto,56,1/4 - 1/2 mile,never,very poor,Yes,2,$0 
+1088,Female,Faculty,yes,Auto,40,1/2 - 1 mile,sometimes,fair,Maybe,10,$0.50 
+1103,Male,Staff,yes,Auto,43,1/4 - 1/2 mile,never,poor,No,will not ride,$0 
+1106,Female,Staff,yes,Auto,41,1/4 - 1/2 mile,never,very good,Yes,10,$0.50 
+1110,Female,Staff,yes,Auto,61,1/2 - 1 mile,never,fair,Maybe,11,$0 
+1115,Female,Staff,yes,Auto,40,<1/4 mile,never,good,Yes,4,$0 
+1138,Female,Staff,yes,Auto,40,1+ miles,sometimes,good,Maybe,1,$0.50 
+1200,Male,Faculty,yes,Auto,53,1/4 - 1/2 mile,never,very good,Maybe,3,$1 
+1206,Female,Staff,yes,Auto,43,1/2 - 1 mile,never,fair,Yes,3,$0 
+1222,Male,Staff,yes,Auto,57,1/4 - 1/2 mile,sometimes,good,Yes,10,$0.50 
+1242,Female,Staff,yes,Auto,55,1/2 - 1 mile,sometimes,poor,Maybe,15,$1 
+1287,Female,Staff,yes,Walk,55,1+ miles,never,poor,Yes,6,$1 
+1294,Female,Staff,yes,Auto,47,1/4 - 1/2 mile,never,very good,Yes,1,$1 
+1295,Female,Faculty,yes,Auto,46,<1/4 mile,never,very good,Yes,10,$0.50 
+1309,Female,Staff,yes,Auto,49,1/2 - 1 mile,sometimes,very poor,Yes,5,$0.50 
+1320,Female,Staff,yes,Auto,56,<1/4 mile,always,fair,Maybe,10,$4 
+1336,Female,Staff,yes,Auto,43,1/4 - 1/2 mile,sometimes,poor,Yes,7,$0.50 
+1376,Female,Staff,yes,Auto,42,1/2 - 1 mile,sometimes,very good,Yes,will not ride,$0 
+1392,Female,Staff,yes,Auto,54,<1/4 mile,never,fair,No,will not ride,will not ride
+1395,Female,Staff,yes,Auto,50,1/2 - 1 mile,never,good,Yes,9,$0.50 
+1397,Female,Staff,yes,Auto,60,1/2 - 1 mile,never,fair,Yes,12,$1 
+1403,Female,Staff,yes,Auto,45,1+ miles,never,good,Yes,6,will not ride
+1419,Female,Staff,yes,Auto,61,<1/4 mile,never,fair,No,1,$0 
+1438,Female,Staff,yes,Auto,52,1/2 - 1 mile,never,fair,Yes,8,will not ride
+1444,Female,Staff,yes,Auto,40,<1/4 mile,never,good,Maybe,4,$0 
+1470,Female,Staff,yes,Auto,46,<1/4 mile,never,very good,Yes,7,$2 
+1522,Female,Staff,yes,Auto,51,1/2 - 1 mile,sometimes,fair,Maybe,3,$0 
+1602,Female,Staff,yes,Auto,54,1/4 - 1/2 mile,never,poor,Yes,0,$0.50 
+1690,Female,Staff,yes,Auto,59,1/4 - 1/2 mile,never,poor,Maybe,8,$0.50 
+1852,Male,Staff,yes,Auto,42,1/4 - 1/2 mile,never,poor,Yes,15,$0.50 
+1854,Male,Staff,yes,Auto,58,1/2 - 1 mile,sometimes,good,Yes,11,$0.50 
+2001,Female,Staff,yes,Auto,52,1/4 - 1/2 mile,always,very poor,Yes,10,$0 
+2158,Female,Faculty,yes,Auto,41,1/2 - 1 mile,sometimes,good,Maybe,12,$0.50 
+2194,Female,Faculty,yes,Auto,59,1+ miles,sometimes,good,Yes,7,$0.50 
+2200,Female,Staff,yes,Auto,55,1/2 - 1 mile,always,fair,Yes,15,$1 
+2202,Male,Faculty,yes,Auto,52,1/2 - 1 mile,sometimes,good,Yes,7,$0 
+2208,Male,Faculty,yes,Auto,58,<1/4 mile,never,good,No,9,$0 
+2210,Male,Staff,yes,Auto,45,1/4 - 1/2 mile,never,very good,Maybe,6,$0.50 
+2214,Male,Faculty,no,Walk,55,<1/4 mile,sometimes,good,Maybe,0,$0.50 
+2217,Female,Staff,yes,Auto,57,<1/4 mile,never,poor,Maybe,7,$1 
+2220,Male,Faculty,yes,Auto,59,1/2 - 1 mile,never,very good,No,will not ride,$0 
+2221,Female,Staff,yes,Auto,58,<1/4 mile,never,poor,Yes,6,$0.50 
+2225,Female,Staff,yes,Auto,52,1/2 - 1 mile,sometimes,poor,Yes,6,$0 
+2230,Female,Staff,yes,Auto,48,<1/4 mile,never,good,Maybe,6,$0 
+2243,Female,Staff,yes,Auto,50,1/4 - 1/2 mile,never,fair,No,will not ride,will not ride
+2244,Male,Staff,yes,Auto,46,1/2 - 1 mile,never,very good,Yes,will not ride,$1 
+2247,Male,Faculty,yes,Auto,49,1+ miles,always,fair,Yes,2,$0.50 
+2253,Female,Staff,yes,Auto,54,1/4 - 1/2 mile,never,very good,Yes,9,$0.50 
+2256,Female,Staff,yes,Auto,40,<1/4 mile,never,poor,Maybe,11,$0 
+2260,Female,Staff,yes,Bicycle,51,1/2 - 1 mile,always,fair,Maybe,3,$0.50 
+2264,Male,Staff,yes,Auto,52,1/4 - 1/2 mile,never,poor,Yes,15,$1 
+2274,Male,Staff,yes,Auto,48,1/4 - 1/2 mile,never,fair,Maybe,10,$0 
+2276,Female,Staff,yes,Auto,51,<1/4 mile,never,fair,No,will not ride,will not ride
+2279,Female,Staff,yes,Auto,45,1/4 - 1/2 mile,never,fair,Maybe,15,$1 
+2290,Male,Faculty,yes,Auto,54,1/2 - 1 mile,sometimes,good,Yes,10,$0.50 
+2301,Female,Staff,yes,Auto,52,<1/4 mile,never,very poor,Maybe,10,$0.50 
+2313,Male,Staff,yes,Auto,46,<1/4 mile,never,fair,Maybe,will not ride,$0 
+2323,Female,Staff,yes,Auto,52,<1/4 mile,never,very poor,Yes,9,$0.50 
+2327,Female,Faculty,yes,Auto,61,1/4 - 1/2 mile,never,good,Yes,10,$0 
+2335,Female,Faculty,yes,Auto,40,1/2 - 1 mile,never,good,Yes,9,$1 
+2344,Female,Faculty,yes,Auto,46,<1/4 mile,always,fair,Yes,3,$0 
+2352,Male,Faculty,yes,Auto,60,<1/4 mile,never,very good,Yes,12,$0.50 
+2361,Female,Staff,yes,Auto,51,1/2 - 1 mile,sometimes,fair,Maybe,8,$0 
+2362,Male,Staff,yes,Auto,43,1/2 - 1 mile,never,good,Yes,11,$0.50 
+2364,Female,Staff,yes,Auto,45,1/2 - 1 mile,sometimes,good,Yes,7,$0.50 
+2367,Female,Staff,yes,Walk,59,<1/4 mile,never,very good,Maybe,8,$0.50 
+2377,Female,Staff,yes,Walk,49,1/4 - 1/2 mile,sometimes,very poor,Maybe,3,$0.50 
+2381,Female,Faculty,yes,Bicycle,45,1/2 - 1 mile,sometimes,poor,Yes,13,$1 
+2382,Male,Staff,yes,Auto,53,1/4 - 1/2 mile,never,good,No,1,$0 
+2402,Female,Staff,yes,Bicycle,52,1/4 - 1/2 mile,never,very good,Yes,10,$1 
+2418,Female,Staff,yes,Bicycle,48,1/4 - 1/2 mile,sometimes,poor,Yes,8,$3 
+2438,Male,Staff,yes,Auto,60,<1/4 mile,never,fair,Yes,5,$0 
+2447,Female,Staff,yes,Auto,45,1/4 - 1/2 mile,never,good,Maybe,6,$0.50 
+2448,Male,Staff,yes,Auto,61,1/2 - 1 mile,sometimes,poor,Yes,13,$1 
+2449,Female,Staff,yes,Auto,51,<1/4 mile,never,very good,Yes,6,$1 
+2450,Female,Faculty,yes,Auto,56,1/4 - 1/2 mile,never,very poor,Yes,3,$0 
+2452,Male,Faculty,yes,Bicycle,61,1/4 - 1/2 mile,never,very good,Maybe,2,$0 
+2458,Male,Staff,yes,Auto,52,1/2 - 1 mile,never,fair,Yes,7,$0.50 
+2461,Male,Faculty,yes,Auto,42,1/2 - 1 mile,never,good,Yes,9,$0 
+2468,Male,Faculty,yes,Auto,61,1/2 - 1 mile,never,very good,Maybe,10,$0.50 
+2477,Female,Staff,yes,Auto,44,1/4 - 1/2 mile,never,fair,Yes,7,$1 
+2495,Male,Faculty,yes,Auto,40,1+ miles,sometimes,very good,Yes,10,$1 
+2515,Male,Faculty,yes,Auto,61,1/4 - 1/2 mile,never,good,Yes,17,$1 
+2518,Male,Faculty,yes,Bicycle,49,1/2 - 1 mile,never,good,Yes,14,$0.50 
+2526,Male,Staff,yes,Walk,45,1/4 - 1/2 mile,sometimes,fair,Yes,0,$0.50 
+2529,Female,Staff,yes,Auto,47,1/4 - 1/2 mile,never,poor,Maybe,will not ride,$0 
+2568,Female,Staff,yes,Auto,60,1/2 - 1 mile,sometimes,fair,Maybe,9,$0.50 
+2570,Female,Staff,yes,Auto,52,1+ miles,sometimes,fair,Yes,6,$0 
+2595,Male,Staff,yes,Auto,56,<1/4 mile,never,very good,Maybe,will not ride,$0.50 
+2605,Female,Staff,yes,Auto,43,1/4 - 1/2 mile,sometimes,poor,Yes,12,$1 
+2615,Female,Staff,yes,Auto,54,1/2 - 1 mile,never,fair,Yes,9,$1 
+2651,Female,Staff,yes,Auto,47,1/4 - 1/2 mile,sometimes,good,Yes,4,$0 
+2659,Female,Faculty,yes,Auto,47,1+ miles,never,good,Yes,15,$0.50 
+2672,Female,Faculty,yes,Bicycle,42,1/2 - 1 mile,always,poor,Yes,14,$0.50 
+2680,Female,Faculty,yes,Auto,49,1+ miles,sometimes,fair,Yes,5,$0.50 
+2776,Female,Staff,yes,Walk,55,<1/4 mile,sometimes,fair,Yes,3,will not ride
+2787,Female,Staff,yes,Walk,47,1/4 - 1/2 mile,never,good,Yes,7,$0.50 
