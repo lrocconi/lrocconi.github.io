@@ -1,201 +1,201 @@
-ID,sex,class,motor,transport,timetravel,walkdist,streetpark,convenience,shuttle,wait4shuttle,pay4shuttle
-85,Male,Senior,yes,Auto,23,0.2,never,very good,No,will not ride,$0.50 
-101,Female,Senior,yes,Auto,4,0.7,never,fair,No,3,$1 
-131,Female,Graduate,no,Walk,11,0.5,never,poor,Maybe,9,$1 
-132,Female,Junior,yes,Auto,29,0.6,never,fair,Yes,4,$0.50 
-142,Female,Graduate,yes,Auto,7,0.5,sometimes,fair,Yes,6,$0.50 
-155,Female,Freshman,yes,Auto,13,0.2,always,fair,Yes,13,$1 
-183,Male,Graduate,yes,Auto,6,0.3,sometimes,fair,Yes,3,$0 
-201,Male,Junior,yes,Auto,32,1.7,never,fair,No,will not ride,will not ride
-221,Male,Senior,yes,Auto,13,0.4,never,fair,No,6,will not ride
-279,Female,Graduate,yes,Auto,13,0.9,always,very poor,Yes,3,$1 
-300,Female,Senior,yes,Auto,8,0.2,never,good,Yes,9,$1 
-308,Female,Graduate,yes,Auto,8,0.8,never,very good,Maybe,13,$0.50 
-312,Female,Graduate,yes,Auto,5,0.2,never,fair,Maybe,8,$1 
-316,Female,Junior,yes,Auto,27,2.1,never,fair,No,3,will not ride
-401,Male,Graduate,yes,Auto,8,0.3,sometimes,good,Yes,7,$0.50 
-415,Male,Junior,yes,Auto,11,0.3,never,fair,No,0,will not ride
-427,Male,Senior,yes,Auto,29,0.6,never,fair,Maybe,9,$0.50 
-448,Female,Junior,yes,Auto,29,0.3,never,fair,Maybe,4,$0.50 
-457,Female,Graduate,yes,Auto,15,0.2,never,good,Maybe,14,$1 
-504,Male,Graduate,yes,Auto,28,0.7,always,fair,Yes,14,$0.50 
-553,Male,Junior,yes,Auto,1,0.8,sometimes,very poor,Yes,0,$0 
-582,Male,Senior,yes,Auto,5,0.3,never,good,Yes,9,$0 
-607,Female,Junior,yes,Auto,7,0.4,sometimes,very poor,Yes,3,$1 
-639,Female,Sophomore,yes,Auto,23,0.3,sometimes,very poor,Yes,7,$0.50 
-647,Female,Sophomore,yes,Walk,13,0.3,never,very poor,No,will not ride,will not ride
-680,Female,Junior,yes,Auto,22,0.3,never,very poor,No,will not ride,will not ride
-704,Male,Senior,yes,Auto,20,0.2,never,poor,No,10,will not ride
-705,Male,Senior,yes,Auto,19,0.4,never,very good,Yes,7,will not ride
-719,Female,Senior,yes,Auto,22,0.5,never,poor,Maybe,17,$1 
-731,Male,Graduate,yes,Auto,24,0.9,sometimes,good,No,will not ride,will not ride
-747,Male,Graduate,yes,Auto,17,0.5,never,good,Maybe,13,$0.50 
-748,Male,Senior,yes,Auto,27,2,never,fair,No,will not ride,will not ride
-766,Female,Junior,yes,Auto,50,0.3,never,poor,Yes,11,$1 
-773,Male,Senior,yes,Auto,11,0.5,never,fair,Yes,1,$0.50 
-775,Female,Freshman,yes,Auto,0,1.8,sometimes,fair,No,will not ride,will not ride
-808,Female,Senior,yes,Auto,28,2.4,never,very poor,Yes,15,$0.50 
-816,Male,Senior,yes,Auto,7,0.2,never,poor,Maybe,8,$0 
-829,Male,Senior,yes,Bicycle,11,0.6,never,very poor,No,will not ride,will not ride
-866,Female,Senior,yes,Auto,1,0.6,sometimes,very poor,Yes,1,$1 
-913,Female,Freshman,yes,Auto,1,0.1,sometimes,fair,Maybe,8,$0.50 
-935,Female,Freshman,yes,Auto,23,0.5,never,very poor,Maybe,11,$0.50 
-956,Female,Freshman,yes,Auto,7,0.4,never,poor,Maybe,8,$0 
-957,Female,Freshman,yes,Auto,28,0.4,never,fair,Maybe,8,$3 
-958,Male,Graduate,yes,Auto,9,0.4,never,very good,Yes,10,$5 
-966,Female,Junior,yes,Auto,50,0.2,never,very poor,Yes,11,$1 
-968,Female,Senior,yes,Walk,7,1.4,never,fair,Yes,7,$0 
-983,Female,Junior,yes,Auto,24,1.6,sometimes,very poor,Yes,20,$0.50 
-986,Male,Junior,yes,Auto,13,0.7,never,fair,No,will not ride,will not ride
-998,Female,Freshman,yes,Auto,26,1,never,very poor,Maybe,will not ride,will not ride
-1008,Female,Sophomore,yes,Auto,28,1.8,sometimes,good,Yes,will not ride,$1 
-1014,Male,Senior,yes,Auto,9,0.4,sometimes,very poor,Maybe,12,$0.50 
-1096,Female,Senior,yes,Auto,5,0.4,never,good,No,will not ride,will not ride
-1113,Female,Graduate,yes,Auto,13,0.2,sometimes,fair,Yes,7,$0.50 
-1124,Male,Graduate,yes,Auto,14,0.9,never,fair,Maybe,14,$1 
-1150,Female,Freshman,yes,Auto,35,0.2,sometimes,very poor,Yes,10,$0 
-1157,Female,Senior,yes,Auto,16,0.3,sometimes,poor,No,will not ride,will not ride
-1176,Female,Graduate,yes,Auto,14,0.4,sometimes,very poor,Yes,1,$0 
-1182,Female,Graduate,yes,Auto,41,0.4,never,very good,No,will not ride,will not ride
-1183,Female,Junior,yes,Auto,25,0.4,sometimes,very poor,No,will not ride,will not ride
-1226,Female,Graduate,yes,Auto,27,0.2,never,very poor,Yes,1,$0 
-1266,Female,Junior,yes,Auto,25,0.2,never,fair,Yes,7,$0 
-1269,Male,Graduate,yes,Auto,9,0.3,sometimes,fair,Maybe,9,$0 
-1272,Female,Senior,yes,Auto,27,0.4,sometimes,poor,Yes,6,$0 
-1275,Female,Junior,yes,Walk,16,0.5,sometimes,poor,Yes,7,$0 
-1292,Female,Junior,yes,Auto,45,0.1,always,poor,No,will not ride,will not ride
-1297,Female,Sophomore,yes,Auto,14,0.3,never,very poor,Yes,15,$1 
-1324,Female,Graduate,yes,Auto,2,0.5,always,fair,Yes,9,$0.50 
-1330,Male,Graduate,yes,Auto,23,0.4,sometimes,fair,Yes,13,$0.50 
-1338,Female,Freshman,yes,Auto,23,0.3,never,fair,No,8,will not ride
-1350,Female,Graduate,no,Car Pool,6,0.2,sometimes,fair,Yes,4,$0.50 
-1380,Female,Sophomore,yes,Auto,21,1,never,poor,No,will not ride,$0 
-1384,Male,Graduate,yes,Auto,37,0.2,never,fair,No,2,$0 
-1386,Female,Graduate,yes,Auto,18,0.4,always,fair,No,will not ride,will not ride
-1391,Female,Senior,yes,Auto,33,1,never,very poor,Yes,9,$0 
-1405,Female,Graduate,yes,Auto,22,0.8,always,very poor,Yes,15,$1 
-1427,Female,Freshman,no,Auto,20,0.5,sometimes,poor,Maybe,12,$0.50 
-1447,Female,Graduate,yes,Auto,29,0.4,sometimes,fair,Yes,10,$0.50 
-1467,Female,Senior,yes,Auto,11,0.5,sometimes,very poor,Maybe,2,$0.50 
-1471,Female,Junior,yes,Walk,0,0.6,never,poor,Yes,12,$1 
-1479,Male,Sophomore,yes,Walk,8,0.1,never,fair,Yes,13,$0 
-1481,Female,Graduate,yes,Auto,26,0.7,never,fair,Yes,13,$1 
-1482,Female,Graduate,yes,Auto,12,0.6,never,fair,Maybe,8,$0.50 
-1485,Male,Senior,yes,Auto,18,1.5,always,poor,Maybe,14,$0 
-1489,Male,Graduate,yes,Auto,10,0.3,sometimes,fair,Yes,4,$0 
-1490,Female,Freshman,yes,Auto,36,0.2,always,very poor,Yes,2,$0.50 
-1494,Female,Junior,yes,Auto,10,0.8,never,poor,Maybe,7,$0.50 
-1498,Male,Junior,yes,Auto,16,1,never,fair,No,9,$1 
-1499,Female,Graduate,yes,Auto,18,0.4,never,good,Maybe,7,$0.50 
-1511,Female,Senior,yes,Auto,21,0.4,never,fair,Yes,7,$0.50 
-1518,Female,Graduate,yes,Auto,18,0.3,never,fair,Yes,9,$0 
-1528,Female,Senior,yes,Walk,6,0.3,sometimes,fair,Maybe,will not ride,$0.50 
-1530,Male,Senior,yes,Auto,21,0.6,never,good,Maybe,9,$0.50 
-1533,Female,Sophomore,yes,Auto,24,0.3,never,poor,Yes,8,$0 
-1540,Male,Junior,yes,Auto,0,0.4,never,fair,Yes,9,$0.50 
-1542,Female,Freshman,yes,Bus,7,1.5,never,good,Maybe,13,$0.50 
-1552,Male,Graduate,yes,Auto,14,0.4,never,poor,No,1,$0.50 
-1560,Male,Freshman,yes,Walk,1,0.6,never,fair,Yes,15,$0.50 
-1563,Male,Senior,yes,Auto,0,1.6,never,fair,Yes,21,$1 
-1577,Female,Freshman,yes,Auto,56,2,sometimes,good,Maybe,will not ride,$0.50 
-1578,Female,Junior,yes,Walk,7,0.4,never,very poor,Maybe,2,$0 
-1604,Female,Senior,yes,Auto,28,0.4,never,poor,Maybe,13,$0.50 
-1637,Male,Senior,yes,Auto,33,0.1,sometimes,very poor,Yes,9,$0 
-1640,Female,Senior,yes,Auto,22,0.4,always,very poor,Yes,7,$0 
-1654,Male,Senior,yes,Auto,33,0.7,never,very poor,Maybe,4,$0 
-1671,Female,Senior,yes,Auto,25,0.4,never,very poor,Yes,4,$0 
-1683,Female,Junior,yes,Auto,17,0.9,always,fair,Maybe,12,$0.50 
-1700,Male,Sophomore,yes,Auto,25,0.5,never,good,Maybe,10,$0 
-1709,Female,Senior,yes,Auto,11,0.3,always,very poor,Yes,14,$1 
-1730,Female,Freshman,yes,Auto,23,0.5,never,fair,Yes,will not ride,$0.50 
-1732,Female,Freshman,yes,Auto,1,0.4,never,very poor,Yes,7,$0.50 
-1734,Male,Junior,yes,Auto,1,0.2,never,fair,Maybe,will not ride,$0 
-1738,Female,Junior,yes,Auto,12,0.3,sometimes,fair,Yes,13,$0 
-1748,Female,Sophomore,yes,Auto,12,0.7,sometimes,fair,Yes,12,$0.50 
-1751,Male,Junior,yes,Auto,23,0.3,never,very poor,Yes,6,$1 
-1761,Female,Freshman,yes,Auto,8,0.3,sometimes,very poor,Yes,9,$1 
-1768,Male,Graduate,no,Auto,50,0.7,always,very poor,Yes,9,$1 
-1770,Female,Junior,yes,Auto,47,0.4,never,fair,No,will not ride,will not ride
-1774,Male,Graduate,yes,Auto,13,0.7,sometimes,poor,Yes,21,$0.50 
-1795,Female,Freshman,yes,Auto,17,2,always,fair,No,1,will not ride
-1797,Female,Junior,yes,Auto,35,0.3,sometimes,fair,Maybe,29,$4 
-1805,Female,Senior,yes,Auto,28,1,never,poor,No,8,$0 
-1806,Female,Freshman,no,Car Pool,24,1,sometimes,fair,Maybe,8,$0.50 
-1814,Male,Graduate,yes,Auto,13,1.9,sometimes,poor,Maybe,9,$0.50 
-1817,Female,Senior,yes,Auto,20,0.8,sometimes,good,Yes,22,$5 
-1822,Male,Senior,yes,Auto,18,1,never,fair,No,4,$0.50 
-1829,Female,Graduate,yes,Auto,11,0.4,never,good,Yes,9,$0.50 
-1832,Female,Senior,yes,Car Pool,28,0.2,sometimes,fair,Yes,17,$0.50 
-1839,Female,Graduate,yes,Auto,17,0.4,never,poor,Yes,9,$0 
-1842,Male,Senior,yes,Auto,14,0.1,never,very poor,No,will not ride,$0 
-1857,Male,Graduate,yes,Auto,20,0.4,never,good,Maybe,7,$0.50 
-1860,Female,Sophomore,yes,Auto,13,0.1,never,very good,Yes,8,$0 
-1868,Male,Senior,yes,Auto,5,0.2,always,very poor,No,3,$0.50 
-1881,Female,Senior,yes,Auto,29,0.8,never,good,Yes,15,$0.50 
-1901,Female,Junior,yes,Auto,36,0.2,sometimes,very poor,Yes,9,$0 
-1912,Female,Graduate,yes,Auto,27,0.2,never,very good,Maybe,0,$0 
-1915,Female,Graduate,yes,Auto,15,0.4,never,fair,Maybe,10,$0.50 
-1927,Male,Sophomore,yes,Auto,31,0.1,never,good,Yes,1,$0.50 
-1930,Female,Sophomore,yes,Auto,28,0.5,sometimes,good,No,9,$1 
-1934,Female,Senior,yes,Auto,3,0.2,sometimes,fair,Maybe,8,will not ride
-1942,Female,Graduate,yes,Auto,16,0.1,sometimes,good,Yes,8,$0.50 
-1951,Female,Senior,yes,Auto,7,0.2,never,very poor,No,will not ride,will not ride
-1962,Female,Graduate,yes,Auto,26,0.3,sometimes,poor,Yes,7,$1 
-1965,Female,Junior,yes,Auto,14,0.5,never,fair,Yes,0,$0 
-1983,Female,Junior,yes,Auto,50,0.4,sometimes,very poor,Yes,17,$0.50 
-1984,Female,Sophomore,yes,Auto,25,0.2,sometimes,very poor,Yes,7,$0.50 
-1988,Male,Senior,no,Walk,18,1.3,sometimes,poor,Yes,13,$1 
-1996,Female,Freshman,yes,Auto,5,0.7,never,very poor,Yes,3,$1 
-2010,Female,Junior,yes,Auto,27,0.1,never,fair,Maybe,4,$1 
-2011,Female,Sophomore,yes,Walk,27,0.4,never,fair,Maybe,4,$0 
-2017,Female,Senior,no,Bus,2,0.2,sometimes,good,Yes,12,$0.50 
-2030,Female,Sophomore,yes,Auto,11,0.3,never,fair,Yes,8,$0 
-2051,Female,Junior,yes,Auto,17,0.1,sometimes,fair,Maybe,9,$0 
-2064,Male,Senior,yes,Auto,17,0.3,never,poor,Yes,5,$0 
-2066,Male,Senior,yes,Auto,15,0.3,sometimes,fair,Yes,13,$1 
-2068,Male,Junior,yes,Auto,23,0.2,never,fair,No,will not ride,$0 
-2079,Male,Senior,yes,Auto,12,0.8,sometimes,poor,Yes,7,$0.50 
-2083,Female,Junior,no,Car Pool,17,0.5,never,very poor,Yes,24,$0.50 
-2099,Male,Senior,yes,Auto,16,0.4,never,poor,No,will not ride,$0 
-2121,Female,Freshman,yes,Auto,24,0.1,sometimes,good,No,2,$0 
-2150,Female,Freshman,yes,Auto,28,0.2,sometimes,very poor,No,1,$0.50 
-2186,Female,Graduate,yes,Auto,22,0.3,sometimes,fair,Yes,9,$0 
-2205,Female,Senior,yes,Auto,22,0.7,never,fair,Yes,12,$0.50 
-2224,Male,Senior,yes,Auto,27,0.4,sometimes,poor,Yes,4,$0 
-2251,Male,Graduate,yes,Auto,12,1.5,never,very good,Yes,12,$0.50 
-2252,Female,Junior,yes,Auto,7,0.3,sometimes,very poor,Yes,4,$1 
-2258,Male,Senior,yes,Auto,2,0.3,never,very good,No,7,will not ride
-2298,Male,Junior,yes,Auto,30,1,never,fair,Yes,7,$0.50 
-2304,Female,Senior,yes,Auto,26,0.2,sometimes,very poor,Yes,1,$0.50 
-2331,Female,Junior,yes,Bicycle,5,1.9,sometimes,fair,Yes,7,$0.50 
-2339,Female,Graduate,yes,Auto,13,0.3,sometimes,good,Maybe,14,$0.50 
-2386,Male,Junior,yes,Auto,15,0.8,sometimes,fair,Maybe,7,$0.50 
-2410,Female,Graduate,yes,Auto,41,0.6,never,good,No,will not ride,will not ride
-2421,Female,Graduate,yes,Auto,24,0.5,always,good,Maybe,29,$3 
-2425,Female,Junior,yes,Auto,13,0.6,sometimes,fair,Yes,8,$0.50 
-2437,Male,Graduate,yes,Walk,17,0.5,sometimes,fair,Yes,8,$1 
-2459,Female,Graduate,yes,Auto,37,0.8,never,good,Yes,12,$1 
-2460,Female,Graduate,yes,Auto,26,0.2,sometimes,very poor,Yes,7,$0 
-2472,Female,Senior,yes,Auto,11,0.5,sometimes,fair,No,3,$0 
-2478,Male,Junior,yes,Auto,3,0.3,always,poor,Maybe,15,$2 
-2484,Female,Sophomore,yes,Auto,23,0.1,never,very poor,Yes,will not ride,$0.50 
-2485,Male,Freshman,yes,Auto,22,0.3,sometimes,good,Maybe,will not ride,$1 
-2491,Female,Graduate,yes,Auto,18,0.3,never,good,Maybe,4,$0 
-2492,Female,Graduate,yes,Auto,22,0.2,never,fair,Yes,8,$0 
-2506,Male,Junior,yes,Auto,29,0.4,never,good,Yes,3,$0 
-2514,Male,Graduate,yes,Auto,21,0.8,sometimes,good,Maybe,11,$0 
-2528,Male,Graduate,yes,Auto,8,1,never,very poor,Yes,7,$0 
-2559,Male,Junior,yes,Auto,11,0.8,never,fair,No,12,will not ride
-2572,Male,Junior,yes,Auto,7,0.3,never,fair,Yes,7,$0.50 
-2573,Female,Sophomore,yes,Auto,27,0.5,never,poor,Yes,7,$0 
-2589,Female,Senior,yes,Auto,43,0.2,sometimes,poor,Yes,5,$0 
-2599,Female,Graduate,yes,Auto,24,0.8,never,poor,Maybe,8,$0 
-2600,Male,Senior,yes,Bicycle,7,0.9,sometimes,poor,Yes,20,$5 
-2601,Female,Graduate,yes,Auto,19,0.3,sometimes,poor,Yes,3,$0 
-2629,Female,Sophomore,yes,Car Pool,12,0.3,never,very poor,No,6,$0.50 
-2643,Male,Senior,yes,Auto,8,1.7,sometimes,very poor,Yes,29,$1 
-2714,Female,Graduate,yes,Auto,5,0.2,never,very poor,Yes,12,$0 
-2717,Female,Sophomore,yes,Auto,13,0.3,never,poor,Maybe,5,$0.50 
-2723,Female,Graduate,yes,Auto,33,0.8,sometimes,very good,No,6,will not ride
-2739,Female,Senior,yes,Auto,17,0.4,never,good,Yes,4,$1 
-2771,Male,Junior,yes,Auto,14,0.5,sometimes,very poor,Yes,8,$1 
+"","ID","sex","class","motor","transport","timetravel","walkdist","streetpark","convenience","shuttle","wait4shuttle","pay4shuttle"
+"1",85,"Male","Senior","yes","Auto",23,"<1/4 mile","never","very good","No","will not ride","$0.50 "
+"2",101,"Female","Senior","yes","Auto",4,"1/2 - 1 mile","never","fair","No","3","$1 "
+"3",131,"Female","Graduate","no","Walk",11,"1/2 - 1 mile","never","poor","Maybe","9","$1 "
+"4",132,"Female","Junior","yes","Auto",29,"1/2 - 1 mile","never","fair","Yes","4","$0.50 "
+"5",142,"Female","Graduate","yes","Auto",7,"1/2 - 1 mile","sometimes","fair","Yes","6","$0.50 "
+"6",155,"Female","Freshman","yes","Auto",13,"<1/4 mile","always","fair","Yes","13","$1 "
+"7",183,"Male","Graduate","yes","Auto",6,"1/4-1/2 mile","sometimes","fair","Yes","3","$0 "
+"8",201,"Male","Junior","yes","Auto",32,"1+ miles","never","fair","No","will not ride","will not ride"
+"9",221,"Male","Senior","yes","Auto",13,"1/4-1/2 mile","never","fair","No","6","will not ride"
+"10",279,"Female","Graduate","yes","Auto",13,"1/2 - 1 mile","always","very poor","Yes","3","$1 "
+"11",300,"Female","Senior","yes","Auto",8,"<1/4 mile","never","good","Yes","9","$1 "
+"12",308,"Female","Graduate","yes","Auto",8,"1/2 - 1 mile","never","very good","Maybe","13","$0.50 "
+"13",312,"Female","Graduate","yes","Auto",5,"<1/4 mile","never","fair","Maybe","8","$1 "
+"14",316,"Female","Junior","yes","Auto",27,"1+ miles","never","fair","No","3","will not ride"
+"15",401,"Male","Graduate","yes","Auto",8,"1/4-1/2 mile","sometimes","good","Yes","7","$0.50 "
+"16",415,"Male","Junior","yes","Auto",11,"1/4-1/2 mile","never","fair","No","0","will not ride"
+"17",427,"Male","Senior","yes","Auto",29,"1/2 - 1 mile","never","fair","Maybe","9","$0.50 "
+"18",448,"Female","Junior","yes","Auto",29,"1/4-1/2 mile","never","fair","Maybe","4","$0.50 "
+"19",457,"Female","Graduate","yes","Auto",15,"<1/4 mile","never","good","Maybe","14","$1 "
+"20",504,"Male","Graduate","yes","Auto",28,"1/2 - 1 mile","always","fair","Yes","14","$0.50 "
+"21",553,"Male","Junior","yes","Auto",1,"1/2 - 1 mile","sometimes","very poor","Yes","0","$0 "
+"22",582,"Male","Senior","yes","Auto",5,"1/4-1/2 mile","never","good","Yes","9","$0 "
+"23",607,"Female","Junior","yes","Auto",7,"1/4-1/2 mile","sometimes","very poor","Yes","3","$1 "
+"24",639,"Female","Sophomore","yes","Auto",23,"1/4-1/2 mile","sometimes","very poor","Yes","7","$0.50 "
+"25",647,"Female","Sophomore","yes","Walk",13,"1/4-1/2 mile","never","very poor","No","will not ride","will not ride"
+"26",680,"Female","Junior","yes","Auto",22,"1/4-1/2 mile","never","very poor","No","will not ride","will not ride"
+"27",704,"Male","Senior","yes","Auto",20,"<1/4 mile","never","poor","No","10","will not ride"
+"28",705,"Male","Senior","yes","Auto",19,"1/4-1/2 mile","never","very good","Yes","7","will not ride"
+"29",719,"Female","Senior","yes","Auto",22,"1/2 - 1 mile","never","poor","Maybe","17","$1 "
+"30",731,"Male","Graduate","yes","Auto",24,"1/2 - 1 mile","sometimes","good","No","will not ride","will not ride"
+"31",747,"Male","Graduate","yes","Auto",17,"1/2 - 1 mile","never","good","Maybe","13","$0.50 "
+"32",748,"Male","Senior","yes","Auto",27,"1+ miles","never","fair","No","will not ride","will not ride"
+"33",766,"Female","Junior","yes","Auto",50,"1/4-1/2 mile","never","poor","Yes","11","$1 "
+"34",773,"Male","Senior","yes","Auto",11,"1/2 - 1 mile","never","fair","Yes","1","$0.50 "
+"35",775,"Female","Freshman","yes","Auto",0,"1+ miles","sometimes","fair","No","will not ride","will not ride"
+"36",808,"Female","Senior","yes","Auto",28,"1+ miles","never","very poor","Yes","15","$0.50 "
+"37",816,"Male","Senior","yes","Auto",7,"<1/4 mile","never","poor","Maybe","8","$0 "
+"38",829,"Male","Senior","yes","Bicycle",11,"1/2 - 1 mile","never","very poor","No","will not ride","will not ride"
+"39",866,"Female","Senior","yes","Auto",1,"1/2 - 1 mile","sometimes","very poor","Yes","1","$1 "
+"40",913,"Female","Freshman","yes","Auto",1,"<1/4 mile","sometimes","fair","Maybe","8","$0.50 "
+"41",935,"Female","Freshman","yes","Auto",23,"1/2 - 1 mile","never","very poor","Maybe","11","$0.50 "
+"42",956,"Female","Freshman","yes","Auto",7,"1/4-1/2 mile","never","poor","Maybe","8","$0 "
+"43",957,"Female","Freshman","yes","Auto",28,"1/4-1/2 mile","never","fair","Maybe","8","$3 "
+"44",958,"Male","Graduate","yes","Auto",9,"1/4-1/2 mile","never","very good","Yes","10","$5 "
+"45",966,"Female","Junior","yes","Auto",50,"<1/4 mile","never","very poor","Yes","11","$1 "
+"46",968,"Female","Senior","yes","Walk",7,"1+ miles","never","fair","Yes","7","$0 "
+"47",983,"Female","Junior","yes","Auto",24,"1+ miles","sometimes","very poor","Yes","20","$0.50 "
+"48",986,"Male","Junior","yes","Auto",13,"1/2 - 1 mile","never","fair","No","will not ride","will not ride"
+"49",998,"Female","Freshman","yes","Auto",26,"1+ miles","never","very poor","Maybe","will not ride","will not ride"
+"50",1008,"Female","Sophomore","yes","Auto",28,"1+ miles","sometimes","good","Yes","will not ride","$1 "
+"51",1014,"Male","Senior","yes","Auto",9,"1/4-1/2 mile","sometimes","very poor","Maybe","12","$0.50 "
+"52",1096,"Female","Senior","yes","Auto",5,"1/4-1/2 mile","never","good","No","will not ride","will not ride"
+"53",1113,"Female","Graduate","yes","Auto",13,"<1/4 mile","sometimes","fair","Yes","7","$0.50 "
+"54",1124,"Male","Graduate","yes","Auto",14,"1/2 - 1 mile","never","fair","Maybe","14","$1 "
+"55",1150,"Female","Freshman","yes","Auto",35,"<1/4 mile","sometimes","very poor","Yes","10","$0 "
+"56",1157,"Female","Senior","yes","Auto",16,"1/4-1/2 mile","sometimes","poor","No","will not ride","will not ride"
+"57",1176,"Female","Graduate","yes","Auto",14,"1/4-1/2 mile","sometimes","very poor","Yes","1","$0 "
+"58",1182,"Female","Graduate","yes","Auto",41,"1/4-1/2 mile","never","very good","No","will not ride","will not ride"
+"59",1183,"Female","Junior","yes","Auto",25,"1/4-1/2 mile","sometimes","very poor","No","will not ride","will not ride"
+"60",1226,"Female","Graduate","yes","Auto",27,"<1/4 mile","never","very poor","Yes","1","$0 "
+"61",1266,"Female","Junior","yes","Auto",25,"<1/4 mile","never","fair","Yes","7","$0 "
+"62",1269,"Male","Graduate","yes","Auto",9,"1/4-1/2 mile","sometimes","fair","Maybe","9","$0 "
+"63",1272,"Female","Senior","yes","Auto",27,"1/4-1/2 mile","sometimes","poor","Yes","6","$0 "
+"64",1275,"Female","Junior","yes","Walk",16,"1/2 - 1 mile","sometimes","poor","Yes","7","$0 "
+"65",1292,"Female","Junior","yes","Auto",45,"<1/4 mile","always","poor","No","will not ride","will not ride"
+"66",1297,"Female","Sophomore","yes","Auto",14,"1/4-1/2 mile","never","very poor","Yes","15","$1 "
+"67",1324,"Female","Graduate","yes","Auto",2,"1/2 - 1 mile","always","fair","Yes","9","$0.50 "
+"68",1330,"Male","Graduate","yes","Auto",23,"1/4-1/2 mile","sometimes","fair","Yes","13","$0.50 "
+"69",1338,"Female","Freshman","yes","Auto",23,"1/4-1/2 mile","never","fair","No","8","will not ride"
+"70",1350,"Female","Graduate","no","Car Pool",6,"<1/4 mile","sometimes","fair","Yes","4","$0.50 "
+"71",1380,"Female","Sophomore","yes","Auto",21,"1+ miles","never","poor","No","will not ride","$0 "
+"72",1384,"Male","Graduate","yes","Auto",37,"<1/4 mile","never","fair","No","2","$0 "
+"73",1386,"Female","Graduate","yes","Auto",18,"1/4-1/2 mile","always","fair","No","will not ride","will not ride"
+"74",1391,"Female","Senior","yes","Auto",33,"1+ miles","never","very poor","Yes","9","$0 "
+"75",1405,"Female","Graduate","yes","Auto",22,"1/2 - 1 mile","always","very poor","Yes","15","$1 "
+"76",1427,"Female","Freshman","no","Auto",20,"1/2 - 1 mile","sometimes","poor","Maybe","12","$0.50 "
+"77",1447,"Female","Graduate","yes","Auto",29,"1/4-1/2 mile","sometimes","fair","Yes","10","$0.50 "
+"78",1467,"Female","Senior","yes","Auto",11,"1/2 - 1 mile","sometimes","very poor","Maybe","2","$0.50 "
+"79",1471,"Female","Junior","yes","Walk",0,"1/2 - 1 mile","never","poor","Yes","12","$1 "
+"80",1479,"Male","Sophomore","yes","Walk",8,"<1/4 mile","never","fair","Yes","13","$0 "
+"81",1481,"Female","Graduate","yes","Auto",26,"1/2 - 1 mile","never","fair","Yes","13","$1 "
+"82",1482,"Female","Graduate","yes","Auto",12,"1/2 - 1 mile","never","fair","Maybe","8","$0.50 "
+"83",1485,"Male","Senior","yes","Auto",18,"1+ miles","always","poor","Maybe","14","$0 "
+"84",1489,"Male","Graduate","yes","Auto",10,"1/4-1/2 mile","sometimes","fair","Yes","4","$0 "
+"85",1490,"Female","Freshman","yes","Auto",36,"<1/4 mile","always","very poor","Yes","2","$0.50 "
+"86",1494,"Female","Junior","yes","Auto",10,"1/2 - 1 mile","never","poor","Maybe","7","$0.50 "
+"87",1498,"Male","Junior","yes","Auto",16,"1+ miles","never","fair","No","9","$1 "
+"88",1499,"Female","Graduate","yes","Auto",18,"1/4-1/2 mile","never","good","Maybe","7","$0.50 "
+"89",1511,"Female","Senior","yes","Auto",21,"1/4-1/2 mile","never","fair","Yes","7","$0.50 "
+"90",1518,"Female","Graduate","yes","Auto",18,"1/4-1/2 mile","never","fair","Yes","9","$0 "
+"91",1528,"Female","Senior","yes","Walk",6,"1/4-1/2 mile","sometimes","fair","Maybe","will not ride","$0.50 "
+"92",1530,"Male","Senior","yes","Auto",21,"1/2 - 1 mile","never","good","Maybe","9","$0.50 "
+"93",1533,"Female","Sophomore","yes","Auto",24,"1/4-1/2 mile","never","poor","Yes","8","$0 "
+"94",1540,"Male","Junior","yes","Auto",0,"1/4-1/2 mile","never","fair","Yes","9","$0.50 "
+"95",1542,"Female","Freshman","yes","Bus",7,"1+ miles","never","good","Maybe","13","$0.50 "
+"96",1552,"Male","Graduate","yes","Auto",14,"1/4-1/2 mile","never","poor","No","1","$0.50 "
+"97",1560,"Male","Freshman","yes","Walk",1,"1/2 - 1 mile","never","fair","Yes","15","$0.50 "
+"98",1563,"Male","Senior","yes","Auto",0,"1+ miles","never","fair","Yes","21","$1 "
+"99",1577,"Female","Freshman","yes","Auto",56,"1+ miles","sometimes","good","Maybe","will not ride","$0.50 "
+"100",1578,"Female","Junior","yes","Walk",7,"1/4-1/2 mile","never","very poor","Maybe","2","$0 "
+"101",1604,"Female","Senior","yes","Auto",28,"1/4-1/2 mile","never","poor","Maybe","13","$0.50 "
+"102",1637,"Male","Senior","yes","Auto",33,"<1/4 mile","sometimes","very poor","Yes","9","$0 "
+"103",1640,"Female","Senior","yes","Auto",22,"1/4-1/2 mile","always","very poor","Yes","7","$0 "
+"104",1654,"Male","Senior","yes","Auto",33,"1/2 - 1 mile","never","very poor","Maybe","4","$0 "
+"105",1671,"Female","Senior","yes","Auto",25,"1/4-1/2 mile","never","very poor","Yes","4","$0 "
+"106",1683,"Female","Junior","yes","Auto",17,"1/2 - 1 mile","always","fair","Maybe","12","$0.50 "
+"107",1700,"Male","Sophomore","yes","Auto",25,"1/2 - 1 mile","never","good","Maybe","10","$0 "
+"108",1709,"Female","Senior","yes","Auto",11,"1/4-1/2 mile","always","very poor","Yes","14","$1 "
+"109",1730,"Female","Freshman","yes","Auto",23,"1/2 - 1 mile","never","fair","Yes","will not ride","$0.50 "
+"110",1732,"Female","Freshman","yes","Auto",1,"1/4-1/2 mile","never","very poor","Yes","7","$0.50 "
+"111",1734,"Male","Junior","yes","Auto",1,"<1/4 mile","never","fair","Maybe","will not ride","$0 "
+"112",1738,"Female","Junior","yes","Auto",12,"1/4-1/2 mile","sometimes","fair","Yes","13","$0 "
+"113",1748,"Female","Sophomore","yes","Auto",12,"1/2 - 1 mile","sometimes","fair","Yes","12","$0.50 "
+"114",1751,"Male","Junior","yes","Auto",23,"1/4-1/2 mile","never","very poor","Yes","6","$1 "
+"115",1761,"Female","Freshman","yes","Auto",8,"1/4-1/2 mile","sometimes","very poor","Yes","9","$1 "
+"116",1768,"Male","Graduate","no","Auto",50,"1/2 - 1 mile","always","very poor","Yes","9","$1 "
+"117",1770,"Female","Junior","yes","Auto",47,"1/4-1/2 mile","never","fair","No","will not ride","will not ride"
+"118",1774,"Male","Graduate","yes","Auto",13,"1/2 - 1 mile","sometimes","poor","Yes","21","$0.50 "
+"119",1795,"Female","Freshman","yes","Auto",17,"1+ miles","always","fair","No","1","will not ride"
+"120",1797,"Female","Junior","yes","Auto",35,"1/4-1/2 mile","sometimes","fair","Maybe","29","$4 "
+"121",1805,"Female","Senior","yes","Auto",28,"1+ miles","never","poor","No","8","$0 "
+"122",1806,"Female","Freshman","no","Car Pool",24,"1+ miles","sometimes","fair","Maybe","8","$0.50 "
+"123",1814,"Male","Graduate","yes","Auto",13,"1+ miles","sometimes","poor","Maybe","9","$0.50 "
+"124",1817,"Female","Senior","yes","Auto",20,"1/2 - 1 mile","sometimes","good","Yes","22","$5 "
+"125",1822,"Male","Senior","yes","Auto",18,"1+ miles","never","fair","No","4","$0.50 "
+"126",1829,"Female","Graduate","yes","Auto",11,"1/4-1/2 mile","never","good","Yes","9","$0.50 "
+"127",1832,"Female","Senior","yes","Car Pool",28,"<1/4 mile","sometimes","fair","Yes","17","$0.50 "
+"128",1839,"Female","Graduate","yes","Auto",17,"1/4-1/2 mile","never","poor","Yes","9","$0 "
+"129",1842,"Male","Senior","yes","Auto",14,"<1/4 mile","never","very poor","No","will not ride","$0 "
+"130",1857,"Male","Graduate","yes","Auto",20,"1/4-1/2 mile","never","good","Maybe","7","$0.50 "
+"131",1860,"Female","Sophomore","yes","Auto",13,"<1/4 mile","never","very good","Yes","8","$0 "
+"132",1868,"Male","Senior","yes","Auto",5,"<1/4 mile","always","very poor","No","3","$0.50 "
+"133",1881,"Female","Senior","yes","Auto",29,"1/2 - 1 mile","never","good","Yes","15","$0.50 "
+"134",1901,"Female","Junior","yes","Auto",36,"<1/4 mile","sometimes","very poor","Yes","9","$0 "
+"135",1912,"Female","Graduate","yes","Auto",27,"<1/4 mile","never","very good","Maybe","0","$0 "
+"136",1915,"Female","Graduate","yes","Auto",15,"1/4-1/2 mile","never","fair","Maybe","10","$0.50 "
+"137",1927,"Male","Sophomore","yes","Auto",31,"<1/4 mile","never","good","Yes","1","$0.50 "
+"138",1930,"Female","Sophomore","yes","Auto",28,"1/2 - 1 mile","sometimes","good","No","9","$1 "
+"139",1934,"Female","Senior","yes","Auto",3,"<1/4 mile","sometimes","fair","Maybe","8","will not ride"
+"140",1942,"Female","Graduate","yes","Auto",16,"<1/4 mile","sometimes","good","Yes","8","$0.50 "
+"141",1951,"Female","Senior","yes","Auto",7,"<1/4 mile","never","very poor","No","will not ride","will not ride"
+"142",1962,"Female","Graduate","yes","Auto",26,"1/4-1/2 mile","sometimes","poor","Yes","7","$1 "
+"143",1965,"Female","Junior","yes","Auto",14,"1/2 - 1 mile","never","fair","Yes","0","$0 "
+"144",1983,"Female","Junior","yes","Auto",50,"1/4-1/2 mile","sometimes","very poor","Yes","17","$0.50 "
+"145",1984,"Female","Sophomore","yes","Auto",25,"<1/4 mile","sometimes","very poor","Yes","7","$0.50 "
+"146",1988,"Male","Senior","no","Walk",18,"1+ miles","sometimes","poor","Yes","13","$1 "
+"147",1996,"Female","Freshman","yes","Auto",5,"1/2 - 1 mile","never","very poor","Yes","3","$1 "
+"148",2010,"Female","Junior","yes","Auto",27,"<1/4 mile","never","fair","Maybe","4","$1 "
+"149",2011,"Female","Sophomore","yes","Walk",27,"1/4-1/2 mile","never","fair","Maybe","4","$0 "
+"150",2017,"Female","Senior","no","Bus",2,"<1/4 mile","sometimes","good","Yes","12","$0.50 "
+"151",2030,"Female","Sophomore","yes","Auto",11,"1/4-1/2 mile","never","fair","Yes","8","$0 "
+"152",2051,"Female","Junior","yes","Auto",17,"<1/4 mile","sometimes","fair","Maybe","9","$0 "
+"153",2064,"Male","Senior","yes","Auto",17,"1/4-1/2 mile","never","poor","Yes","5","$0 "
+"154",2066,"Male","Senior","yes","Auto",15,"1/4-1/2 mile","sometimes","fair","Yes","13","$1 "
+"155",2068,"Male","Junior","yes","Auto",23,"<1/4 mile","never","fair","No","will not ride","$0 "
+"156",2079,"Male","Senior","yes","Auto",12,"1/2 - 1 mile","sometimes","poor","Yes","7","$0.50 "
+"157",2083,"Female","Junior","no","Car Pool",17,"1/2 - 1 mile","never","very poor","Yes","24","$0.50 "
+"158",2099,"Male","Senior","yes","Auto",16,"1/4-1/2 mile","never","poor","No","will not ride","$0 "
+"159",2121,"Female","Freshman","yes","Auto",24,"<1/4 mile","sometimes","good","No","2","$0 "
+"160",2150,"Female","Freshman","yes","Auto",28,"<1/4 mile","sometimes","very poor","No","1","$0.50 "
+"161",2186,"Female","Graduate","yes","Auto",22,"1/4-1/2 mile","sometimes","fair","Yes","9","$0 "
+"162",2205,"Female","Senior","yes","Auto",22,"1/2 - 1 mile","never","fair","Yes","12","$0.50 "
+"163",2224,"Male","Senior","yes","Auto",27,"1/4-1/2 mile","sometimes","poor","Yes","4","$0 "
+"164",2251,"Male","Graduate","yes","Auto",12,"1+ miles","never","very good","Yes","12","$0.50 "
+"165",2252,"Female","Junior","yes","Auto",7,"1/4-1/2 mile","sometimes","very poor","Yes","4","$1 "
+"166",2258,"Male","Senior","yes","Auto",2,"1/4-1/2 mile","never","very good","No","7","will not ride"
+"167",2298,"Male","Junior","yes","Auto",30,"1+ miles","never","fair","Yes","7","$0.50 "
+"168",2304,"Female","Senior","yes","Auto",26,"<1/4 mile","sometimes","very poor","Yes","1","$0.50 "
+"169",2331,"Female","Junior","yes","Bicycle",5,"1+ miles","sometimes","fair","Yes","7","$0.50 "
+"170",2339,"Female","Graduate","yes","Auto",13,"1/4-1/2 mile","sometimes","good","Maybe","14","$0.50 "
+"171",2386,"Male","Junior","yes","Auto",15,"1/2 - 1 mile","sometimes","fair","Maybe","7","$0.50 "
+"172",2410,"Female","Graduate","yes","Auto",41,"1/2 - 1 mile","never","good","No","will not ride","will not ride"
+"173",2421,"Female","Graduate","yes","Auto",24,"1/2 - 1 mile","always","good","Maybe","29","$3 "
+"174",2425,"Female","Junior","yes","Auto",13,"1/2 - 1 mile","sometimes","fair","Yes","8","$0.50 "
+"175",2437,"Male","Graduate","yes","Walk",17,"1/2 - 1 mile","sometimes","fair","Yes","8","$1 "
+"176",2459,"Female","Graduate","yes","Auto",37,"1/2 - 1 mile","never","good","Yes","12","$1 "
+"177",2460,"Female","Graduate","yes","Auto",26,"<1/4 mile","sometimes","very poor","Yes","7","$0 "
+"178",2472,"Female","Senior","yes","Auto",11,"1/2 - 1 mile","sometimes","fair","No","3","$0 "
+"179",2478,"Male","Junior","yes","Auto",3,"1/4-1/2 mile","always","poor","Maybe","15","$2 "
+"180",2484,"Female","Sophomore","yes","Auto",23,"<1/4 mile","never","very poor","Yes","will not ride","$0.50 "
+"181",2485,"Male","Freshman","yes","Auto",22,"1/4-1/2 mile","sometimes","good","Maybe","will not ride","$1 "
+"182",2491,"Female","Graduate","yes","Auto",18,"1/4-1/2 mile","never","good","Maybe","4","$0 "
+"183",2492,"Female","Graduate","yes","Auto",22,"<1/4 mile","never","fair","Yes","8","$0 "
+"184",2506,"Male","Junior","yes","Auto",29,"1/4-1/2 mile","never","good","Yes","3","$0 "
+"185",2514,"Male","Graduate","yes","Auto",21,"1/2 - 1 mile","sometimes","good","Maybe","11","$0 "
+"186",2528,"Male","Graduate","yes","Auto",8,"1+ miles","never","very poor","Yes","7","$0 "
+"187",2559,"Male","Junior","yes","Auto",11,"1/2 - 1 mile","never","fair","No","12","will not ride"
+"188",2572,"Male","Junior","yes","Auto",7,"1/4-1/2 mile","never","fair","Yes","7","$0.50 "
+"189",2573,"Female","Sophomore","yes","Auto",27,"1/2 - 1 mile","never","poor","Yes","7","$0 "
+"190",2589,"Female","Senior","yes","Auto",43,"<1/4 mile","sometimes","poor","Yes","5","$0 "
+"191",2599,"Female","Graduate","yes","Auto",24,"1/2 - 1 mile","never","poor","Maybe","8","$0 "
+"192",2600,"Male","Senior","yes","Bicycle",7,"1/2 - 1 mile","sometimes","poor","Yes","20","$5 "
+"193",2601,"Female","Graduate","yes","Auto",19,"1/4-1/2 mile","sometimes","poor","Yes","3","$0 "
+"194",2629,"Female","Sophomore","yes","Car Pool",12,"1/4-1/2 mile","never","very poor","No","6","$0.50 "
+"195",2643,"Male","Senior","yes","Auto",8,"1+ miles","sometimes","very poor","Yes","29","$1 "
+"196",2714,"Female","Graduate","yes","Auto",5,"<1/4 mile","never","very poor","Yes","12","$0 "
+"197",2717,"Female","Sophomore","yes","Auto",13,"1/4-1/2 mile","never","poor","Maybe","5","$0.50 "
+"198",2723,"Female","Graduate","yes","Auto",33,"1/2 - 1 mile","sometimes","very good","No","6","will not ride"
+"199",2739,"Female","Senior","yes","Auto",17,"1/4-1/2 mile","never","good","Yes","4","$1 "
+"200",2771,"Male","Junior","yes","Auto",14,"1/2 - 1 mile","sometimes","very poor","Yes","8","$1 "
