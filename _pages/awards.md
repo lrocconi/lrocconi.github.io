@@ -2,6 +2,11 @@
 permalink: /awards/
 title: "Awards"
 ---
+* 2026 **Excellence in Teaching Award** from the University of Tennessee, Provost's Academic Honors Banquet. 
+
+* 2025 **Helen B. Watson Faculty/Student Award for Outstanding Doctoral Dissertation** from the College of Education, Health, and Human Sciences at the University of Tennessee
+ 
+* 2024 **Dr. Robert A. Rider Faculty Support Award for Research Excellence** from the College of Education, Health, and Human Science at the University of Tennessee 
 
 * 2023 **Outstanding Graduate Professor** from the Graduate Student Senate at the University of Tennessee
   
