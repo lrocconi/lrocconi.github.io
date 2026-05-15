@@ -6,6 +6,32 @@ author_profile: true
 ---
 This page contains links to some of my scholarly publications. For a complete list of my scholarly publications, please see my [CV](/cv/). 
 
+### 2026
+
+Traga Philippakos, Z. A., Rocconi, L. M., & Macarthur, C. (2026). Yearlong genre-based writing instruction in the middle grades: An investigation of writing and self-efficacy. Education Sciences, 16(4), 603. https://doi.org/10.3390/educsci16040603 
+
+Howard, S., Rocconi, L., & Odoi, A. (2026). Chronic obstructive pulmonary disease among former United States Department of Energy workers: Comorbidities and lung function changes. PeerJ, 14, e20696. https://doi.org/10.7717/peerj.20696 
+
+Compton, K., Narvaiz, S., Banks, A., Bland, D., McCollum, T., Cain, L., Morrow, J., Rocconi, L., & Skolits, G. (accepted). Prevalence of Qualitative and Mixed Methods Coursework in Educational Assessment, Evaluation, and Research Doctoral Programs. The Qualitative Report. 
+
+Keller, K. A., Skinner, C. H., Poppe, C. E., & Rocconi, L. (accepted). Using a modified Tootling intervention to increase preschool students’ sharing. School Psychology Review. http://doi.org/10.1080/2372966X.2026.2669464 
+
+### 2024 - 2025
+Traga Philippakos, Z. A. & Rocconi, L. M. (2025). AI Literacy: Elementary and Secondary Teachers’ Use of AI-Tools, Reported Confidence, and Professional Development Needs. Education Sciences, 15(9), 1186. https://doi.org/10.3390/educsci15091186 https://www.mdpi.com/2227-7102/15/9/1186 
+
+Traga Philippakos, Z. A., Quinn, M. F., Rocconi, L. R. (2025). Multisyllabic Implementation Fidelity in Upper Elementary and Professional Development Considerations: A Pilot. Frontiers in Education, section Teacher Education, 21. https://doi.org/10.3389/feduc.2025.1548014 
+
+Howard, S., Odoi, A., & Rocconi, L. (2025).  Burden and predictors of chronic obstructive pulmonary disease occurrence and severity among an occupational cohort of United States Department of Energy former workers. PLOS One. https://doi.org/10.1371/journal.pone.0322815 
+
+Traga Philippakos, Z. A., Quinn, M. F., & Rocconi, L.M. (2025). Multisyllabic Instruction for Upper Elementary Learners: A Pilot Study Exploring Feasibility and Effectiveness. Journal of Research in Childhood Education, 1–24. https://doi.org/10.1080/02568543.2025.2465585 
+
+Traga Philippakos, Z. A., Quinn, M. F., & Rocconi, L.M. (2025). Developing multisyllabic decoding and encoding skills with upper elementary learners: Reporting on two cycles of design-based research. Reading and Writing Quarterly, 41(3), 193-217. https://doi.org/10.1080/10573569.2024.2406005 
+
+Westcott, J. B. & Rocconi, L. M. (2025). Psychometric evaluation of the Brief Resilience Scale and Multidimensional Scale of Perceived Social Support among older sexual minority women with disabilities in the U.S. Measurement and Evaluation in Counseling and Development, 58(1), 63–82. https://doi.org/10.1080/07481756.2024.2397947
+
+Traga Philippakos, Z. A., Rocconi, L. M., & Voggt, A. (2025). Effects of online professional development on first-grade writing instruction: Coaching plus manual improves teachers’ implementation, confidence, and students’ writing quality. Written Communication, 42(2), 264–300. https://doi.org/10.1177/07410883241303915. 
+
+Boyd, A., Rocconi, L. M., & Morrow, J. A. (2024). Construct validation and measurement invariance of the Parasocial Relationships in Social Media survey. PLoS ONE, 19(3): e0300356. https://doi.org/10.1371/journal.pone.0300356. 
 
 ### 2022 & 2023
 
